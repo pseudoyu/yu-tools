@@ -267,12 +267,12 @@
   - **Elpass**，密码管理工具 iOS 端，支持双重验证
   - **Google Authenticator**，Google 双重验证工具
   - **Microsoft Authenticator**，Microsoft 双重验证工具
+  - **DAMA**，图片隐私打码工具
 - 🌏 网络工具
   - **Surge**，Surge 代理工具 iOS 端
   - **Shadowrocket**，备用代理工具
   - **Speedtest**，网络测速工具
   - **小米 WIFI**，管理家庭 Wifi 及设备
-  - **DAMA**，图片隐私打码工具
 - 🧰 实用工具
   - **欧陆词典**，字典应用，可导入不同源
   - **翻译**，苹果自带翻译工具
