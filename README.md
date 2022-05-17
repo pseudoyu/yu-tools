@@ -160,7 +160,7 @@
     - **go-plus**，Go 语言环境支持
     - **fabric-go**，用来调试 fabric 1.4 版本的链码，可以自动通过镜像部署，很方便，这也是我 Atom 编辑器的唯一用途了
     - **wakatime**，用来记录编码项目、语言和所用时间
-  - **JetBrains PyCharm Professional Edition**，Python 编辑器，主要用来通过 Python SDK 调试链用
+  - **JetBrains PyCharm Professional Edition**，Python 编辑器
     - **Material Theme UI + Atom Material Icons**，很美观的主题
     - **GitHub Copilot**，代码 AI 补全，很智能
     - **GitToolBox**，提示一些 Git 状态信息
@@ -206,8 +206,8 @@
 ### 📷 图片处理
 
 - **Affinity Photo**，替代 Photoshop 的修图和调色工具，我拍完照后会用来处理和套 Luts
-- **Pixelmator Pro**，黑五半价买的，据说很强大，不过还怎么用
-- **Luminar 4**，做一些简单的效果处理会比 Affinity Photo 这些便捷一些
+- **Pixelmator Pro**，黑五半价买的，据说很强大，不过还没怎么用
+- **Luminar 4**，做一些简单的效果处理会比 Affinity Photo 更便捷
 
 ### 📮 邮件管理
 
@@ -218,8 +218,8 @@
 
 ### 📨 信息管理
 
-- **NetNewsWire**，RSS 订阅工具，电脑端和移动端同步也很方便，也慢慢养成 RSS 为自己的主要信息输入了
-- **TweetBot**，在电脑端发和看 Twitter 的很好用的客户端，主要是可以通过时间轴来刷
+- **NetNewsWire**，RSS 订阅工具，多端同步很方便，慢慢转向 RSS 为自己的主要信息输入了
+- **TweetBot**，在电脑端用来发布和刷 Twitter 的客户端，主要是可以通过时间轴排列
 - **Books**，Apple 自带图书应用，可导入 epub 或 pdf 文件阅读
 - 域名及个人网站
   - **GitHub Pages**，配合 GitHub Action 实现自动部署
@@ -229,7 +229,7 @@
 
 ### 💬 通讯社交
 
-- **微信**，生活和工作大部分都还是通过微信沟通了
+- **微信**，生活和工作大部分都还是会通过微信沟通
 - **腾讯会议**，工作用，主要会议工具
 - **Microsoft Teams**，偶尔参加一些线上研讨会使用
 - **Gather**，有趣的线上交流，正在推荐身边的朋友用，像宝可梦一样，能减轻疫情带来的距离感
@@ -262,7 +262,7 @@
   - **谜底空白**，在屏幕中设置空白位置
   - **Vinegar+Baking Soda**，浏览器看视频使用 HTML5 播放器插件
 - 📁 文件管理
-  - **iCloud**，本地及 iCloud 文件管理
+  - **文件**，Apple 自带本地及 iCloud 文件管理
   - **OneDrive**，iOS 端
 - 🔐 安全工具
   - **Elpass**，密码管理工具 iOS 端，支持双重验证
