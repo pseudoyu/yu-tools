@@ -65,6 +65,7 @@
 - **Bartender 4**，菜单栏管理工具，主要隐藏一些软件服务菜单栏图标
 - **BetterTouchTool**，触控板及 Touchbar 管理，主要给 Macbook Pro 配置触控版用的
 - **Magnet**，分屏工具
+- **AltTab**，和 Windows 体验一致的多窗口切换工具，可以选择同个应用的多个不同项目
 - **iStat Menus**，系统状态显示，主要显示 CPU、内存和网络等状态
 - **AirBuddy**，耳机管理工具，感觉连接耳机更顺滑了一些
 - **HazeOver**，桌面效果工具，显示效果很不错
