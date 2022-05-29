@@ -155,6 +155,7 @@
   - **VS Code**，代码编辑工具，辅助开发
     - **Serendipity**，新尝试的一个很喜欢的主题
     - **GitHub Copilot**，代码 AI 补全，重度依赖
+    - **GitLens**，增加 Git 提交状态提示及拓展其他功能
     - **Beancount**，用来复式记账，配合 fava 工具进行可视化
     - **Markdown All in One**，用来增强对 Markdown 的支持，主要用来写博客
     - **Rainbow Brackets**，给配对的括号加上颜色
@@ -196,6 +197,7 @@
   - **git**，版本管理工具
     - [git-cz](https://github.com/commitizen/cz-cli)，交互式规范化提交信息
     - [git-chglog](https://github.com/git-chglog/git-chglog)，用来自动生成格式化 CHANGELOG
+    - [git-delta](https://github.com/dandavison/delta)，git 语法输出语法高亮工具
   - **GitKraken**，GitHub Education 送的，界面还不错，偶尔看看
   - **Tower**，GitHub Education 送的
   - ~~**Fork**，git 客户端工具（已弃用，改为命令行配合 alias）~~
