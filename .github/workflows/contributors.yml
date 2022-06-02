@@ -1,0 +1,16 @@
+on:
+  push:
+    branches:
+      - master
+
+name: gen contributors
+
+jobs:
+  gen-contributors:
+    runs-on: ubuntu-latest
+    name: auto gen contributors list
+    steps:
+      - name: gen contributors list
+        uses: akhilmhdh/contributors-readme-action@v2.3.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.CONTRIBUTORS_TOKEN }}
