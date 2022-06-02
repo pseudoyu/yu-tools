@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 5 月 29 日更新）
+# 个人工具箱（2022 年 6 月 2 日更新）
 
 ## 前言
 
@@ -14,6 +14,7 @@
 
 - **Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感
 - **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用
+- **Google Pixelbook Go 黑色，Intel Core i7, 16GB RAM, 256GB Storage**，最近打算把自己业余学习和项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境和 ssh 连接到各个主机的配置
 - **明基（BenQ）EW3270U 4K 显示器**，配合 Mac Studio 使用，在这个价位的 4K 里已经很不错了
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
 - **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
