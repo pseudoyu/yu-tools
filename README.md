@@ -383,4 +383,14 @@
 ## 贡献者
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/pseudoyu">
+            <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="100;" alt="pseudoyu"/>
+            <br />
+            <sub><b>Yu Zhang</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
