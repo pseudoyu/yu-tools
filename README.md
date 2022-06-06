@@ -153,7 +153,8 @@
 
 - 编辑器
   - **JetBrains GoLand**，主力工作 Go 开发 IDE，很强大，目前用 Edu 身份订阅着全家桶，希望后面能通过开源项目续着
-    - **Material Theme UI + Atom Material Icons**，很美观的主题
+    - **IntelliJ New UI**，尝试一下预览版的 UI，舒服多了
+    - ~~**Material Theme UI + Atom Material Icons**，很美观的主题~~
     - **GitHub Copilot**，代码 AI 补全，很智能
     - **GitToolBox**，提示一些 Git 状态信息
     - **IdeaVim**，配置 Vim 键位
@@ -169,17 +170,8 @@
     - **go**，Go 语言环境支持
     - **solidity**，智能合约编写支持
     - **WakaTime**，用来记录编码项目、语言和所用时间
-  - **Atom**
-    - **go-plus**，Go 语言环境支持
-    - **fabric-go**，用来调试 fabric 1.4 版本的链码，可以自动通过镜像部署，很方便，这也是我 Atom 编辑器的唯一用途了
-    - **wakatime**，用来记录编码项目、语言和所用时间
-  - **JetBrains PyCharm Professional Edition**，Python 编辑器
-    - **Material Theme UI + Atom Material Icons**，很美观的主题
-    - **GitHub Copilot**，代码 AI 补全，很智能
-    - **GitToolBox**，提示一些 Git 状态信息
-    - **IdeaVim**，配置 Vim 键位
-    - **WakaTime**，用来记录编码项目、语言和所用时间
-    - **Activitus Bar**，可以隐藏左侧活动栏，以小图标显示在底栏，很简洁
+  - ~~**Atom**，完全转向 VS Code，所以也不用了，体验差太多了~~
+  - ~~**JetBrains PyCharm Professional Edition**，Python 编辑器，现在不怎么永乐~~
   - **Xcode**，macOS 及 iOS 开发 IDE
 - 终端
   - **Warp**，新尝试的 Rust 编写的终端，体验感很棒，完全作为主力终端了
