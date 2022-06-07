@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 6 月 6 日更新）
+# 个人工具箱（2022 年 6 月 7 日更新）
 
 ## 前言
 
@@ -168,7 +168,8 @@
     - **Markdown All in One**，用来增强对 Markdown 的支持，主要用来写博客
     - **Rainbow Brackets**，给配对的括号加上颜色
     - **go**，Go 语言环境支持
-    - **solidity**，智能合约编写支持
+    - **Solidity + HardHat**，Solidity 本地编写的语法高亮与格式化支持，HardHat 支持
+    - ~~**solidity**，智能合约编写支持，用了上一个，弃用了~~
     - **WakaTime**，用来记录编码项目、语言和所用时间
   - ~~**Atom**，完全转向 VS Code，所以也不用了，体验差太多了~~
   - ~~**JetBrains PyCharm Professional Edition**，Python 编辑器，现在不怎么永乐~~
