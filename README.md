@@ -86,6 +86,7 @@
 - **OneDrive**，5TB 空间，存储大部分个人数据，通过客户端挂载本地目录来同步，速度不错
 - **iCloud**，200GB 空间，主要用于照片备份与软件数据同步
 - **Dropbox**，2GB 空间，主要配合 Cryptomator 对敏感数据加密备份
+- **坚果云**，用来同步简悦配置和文档
 - ~~**阿里云盘**，主要用来保存一些影视、剧集资源，也不怎么用了~~
 - ~~**Google Drive**，1TB 空间（因学校从 Google 服务转向 Microsoft 服务，已弃用）~~
 - ~~**百度网盘**，存储影音及备份工具（以前存储大量视频剪辑文件用，已弃用）~~
@@ -104,18 +105,20 @@
 - **ClashX**，网络代理工具，买 Surge 前主力用的，现在留了一个备用线路
 - **Tunnelblick**，openvpn 客户端，连接公司内网服务器使用
 - ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网，还是换成 Tunnelblick 了~~
-- **Safari**，主力浏览器，通过 iCloud 多设备同步
+- **Chrome**，因为开始用 Chromebook，所以把主力浏览器换成了 Chrome
+  - **AdGuard**，去广告插件
+  - **MetaMask**，钱包插件
+  - **Elpass**，自动填充密码
+  - **简悦 + 同步助手**，通过插件记录稍后读和批注，并且增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中
+  - **豆伴**，备份和查看豆瓣数据
+  - **YouTube Dual Subtitles**，支持多语言字幕
+  - **YouTubeEnhancer**，增强 YouTube 播放器功能
+- **Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步
   - **AdGuard Home**，去广告插件
   - **Elpass**，自动填充密码
   - **Downie**，下载插件，一键识别媒体并下载
   - **NetNewsWire**，自动抓取网站订阅链接
   - **Vinegar+Baking Soda**，把 YouTube 以及其他一些视频网站的视频播放器转回 HTML5 播放器，简约，体验感很不错
-- **Chrome**
-  - **MetaMask**，钱包插件
-  - **Elpass**，自动填充密码
-  - **豆伴**，备份和查看豆瓣数据
-  - **YouTube Dual Subtitles**，支持多语言字幕
-  - **YouTubeEnhancer**，增强 YouTube 播放器功能
 - **Brave**，插件和 Chrome 保持一致，不过因为用了 Chromebook，还是更依赖 Chrome，这个作为开发使用
 
 ### 🧰 实用工具
@@ -137,10 +140,11 @@
 - **TestFlight**，尝鲜一些测试版软件用
 - **DropZone 4**，一个菜单栏工具，可以把文件暂存，之后统一发送或者整理，也可以利用一些拓展功能进行例如图片压缩、上传云盘和服务器等，对比了另一款 Dropover 还是更喜欢这个的设计和功能，免费功能就完全足够了
 - **CleanShot X**，一个强大的截图拓展工具，因为我经常写一些教程，这个可以做一些额外编辑以及录屏这些，还可以分享到云端
+- **Hazel 5**，自动化同步 macOS 文件，用来把坚果云的简悦目录同步到 Logseq 目录
 
 ### 📝 记录工具
 
-- **Logseq**，现在主力的生活记录、任务管理和笔记工具，基于双向链接打造了自己的信息管理系统，而且通过 Journal 以文本条目的形式记录没有心智负担，建议可以看一下 [Randy](https://lutaonan.com) 的 <[我如何使用 Logseq 管理我的生活和笔记](https://www.bilibili.com/video/BV1X44y1K7X1)>，很有启发
+- **Logseq**，现在主力的生活记录、任务管理和笔记工具，基于双向链接打造了自己的信息管理系统，而且通过 Journal 以文本条目的形式记录没有心智负担，建议可以看一下 [Randy](https://lutaonan.com) 的 <[我如何使用 Logseq 管理我的生活和笔记](https://www.bilibili.com/video/BV1X44y1K7X1)>，很有启发；还增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中，方便查看
 - **Notion**，原本作笔记和任务管理，后来都迁移到了 Logseq，所以就只作为软件订阅管理、游戏记录的一些工具，数据库还是很强大的
 - **Hook**，文件资源双向链接工具，目前主要用来追踪本地的一些视频之类的大文件，可以以链接的形式嵌入到 Logseq 里
 - **Office 365**，主要文档/PPT/表格处理工具，其实工作后已经主要都是 Markdown 写为主了，但是最后还是得通过 Word 来排版
@@ -248,7 +252,7 @@
   - **Cloudflare**，管理域名，以及对网站进行 CDN 加速
   - **Vercel**，配合 Railway 的数据库部署了博客的 Cusdis 评论系统
   - **Rail**，也是一个 PaaS 平台，部署了 Cusdis 的数据库和 umami 全套网站数据统计系统
-- [**豆瓣**](https://www.douban.com/people/pseudo-yu)，通过 GitHub Action 每天抓取豆瓣提供的 RSS，统计我的影音和书籍并更新到 GitHub 主页和个人网站介绍页里，也通过 Brave 的一个叫“豆伴”的插件来定时备份和导出
+- [**豆瓣**](https://www.douban.com/people/pseudo-yu)，通过 GitHub Action 每天抓取豆瓣提供的 RSS，统计我的影音和书籍并更新到 GitHub 主页和个人网站介绍页里，也通过 Chrome 的一个叫“豆伴”的插件来定时备份和导出
 
 ### 💬 通讯社交
 
