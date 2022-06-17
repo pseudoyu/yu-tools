@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 6 月 17 日更新）
+# 个人工具箱（2022 年 6 月 18 日更新）
 
 ## 前言
 
@@ -115,6 +115,7 @@
   - **YouTube Dual Subtitles**，支持多语言字幕
   - **YouTubeEnhancer**，增强 YouTube 播放器功能
   - **ES7+ React/Redux/React-Native snippets**，React 代码快捷提示插件
+  - **Quick source viewer**，便捷格式化查看源码插件
 - **Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步
   - **AdGuard Home**，去广告插件
   - **Elpass**，自动填充密码
