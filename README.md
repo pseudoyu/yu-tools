@@ -114,7 +114,7 @@
   - **豆伴**，备份和查看豆瓣数据
   - **YouTube Dual Subtitles**，支持多语言字幕
   - **YouTubeEnhancer**，增强 YouTube 播放器功能
-  - **ES7+ React/Redux/React-Native snippets**，React 代码快捷提示插件
+  - **React Developer Tool**，在浏览器中使用 React 开发工具
   - **Quick source viewer**，便捷格式化查看源码插件
 - **Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步
   - **AdGuard Home**，去广告插件
@@ -186,6 +186,9 @@
     - ~~**solidity**，智能合约编写支持，用了上一个，弃用了~~
     - **WakaTime**，用来记录编码项目、语言和所用时间
     - **Activitus Bar**，隐藏活动栏，在状态栏中展示
+    - **ES7+ React/Redux/React-Native snippets**，React 代码快捷提示插件
+    - **PostCSS Language Support**，CSS 调整的语言支持
+    - **Tailwind CSS IntelliSense**，Tailwind CSS 的代码提示
   - ~~**Atom**，完全转向 VS Code，所以也不用了，体验差太多了~~
   - ~~**JetBrains PyCharm Professional Edition**，Python 编辑器，现在不怎么永乐~~
   - **Xcode**，macOS 及 iOS 开发 IDE
