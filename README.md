@@ -87,6 +87,7 @@
 - **OneDrive**，5TB 空间，存储大部分个人数据，通过客户端挂载本地目录来同步，速度不错
 - **iCloud**，200GB 空间，主要用于照片备份与软件数据同步
 - **Dropbox**，2GB 空间，主要配合 Cryptomator 对敏感数据加密备份
+- **IPFS Desktop**，去中心化存储，开发测试用
 - **坚果云**，用来同步简悦配置和文档
 - ~~**阿里云盘**，主要用来保存一些影视、剧集资源，也不怎么用了~~
 - ~~**Google Drive**，1TB 空间（因学校从 Google 服务转向 Microsoft 服务，已弃用）~~
@@ -116,6 +117,7 @@
   - **YouTubeEnhancer**，增强 YouTube 播放器功能
   - **React Developer Tool**，在浏览器中使用 React 开发工具
   - **Quick source viewer**，便捷格式化查看源码插件
+  - **IPFS Companion**，去中心化存储，主要用来查看 IPFS 网页
 - **Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步
   - **AdGuard Home**，去广告插件
   - **Elpass**，自动填充密码
