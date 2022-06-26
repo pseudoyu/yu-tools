@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 6 月 26 日更新）
+# 个人工具箱（2022 年 6 月 27 日更新）
 
 ## 前言
 
@@ -17,6 +17,7 @@
 - **Google Pixelbook Go 黑色，Intel Core i7, 16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
 - **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
+- **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以打算长期连家里的 Mac Studio，HHKB 随身外带
 - **RealForce PFU 联名版 87 键，黑色**，备用键盘，也是静电容经典了，但是没有很习惯，可能后面玩游戏会用，毕竟 HHKB 键位特殊
 - ~~**MM-Studio Class65 V2 客制化双模机械键盘，复古白**（原本想通过这把入坑客制化，但是没心情折腾了，等了三个月发团，刚到手就原价转卖了）~~
 - **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
@@ -119,12 +120,16 @@
   - **React Developer Tool**，在浏览器中使用 React 开发工具
   - **Quick source viewer**，便捷格式化查看源码插件
   - **IPFS Companion**，去中心化存储，主要用来查看 IPFS 网页
+  - **uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
+  - **Instapaper**，稍后读应用，保存一些比较精品的文章
 - **Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步
   - **AdGuard Home**，去广告插件
   - **Elpass**，自动填充密码
   - **Downie**，下载插件，一键识别媒体并下载
   - **NetNewsWire**，自动抓取网站订阅链接
   - **Vinegar+Baking Soda**，把 YouTube 以及其他一些视频网站的视频播放器转回 HTML5 播放器，简约，体验感很不错
+  - **uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
+  - **Instapaper Save**，稍后读应用，保存一些比较精品的文章
 - **Brave**，插件和 Chrome 保持一致，不过因为用了 Chromebook，还是更依赖 Chrome，这个作为开发使用
 
 ### 🧰 实用工具
@@ -273,6 +278,7 @@
 - **微信**，生活和工作大部分都还是会通过微信沟通
 - **Telegram**，新建了[个人频道](https://t.me/pseudoyulife)，添加了自己的信息流自动化系统，并且用来代替微信存储临时文件，常用
 - **腾讯会议**，工作用，主要会议工具
+- **Zoom**，最近跟在留学的朋友一起讨论问题又下回来了
 - **Microsoft Teams**，偶尔参加一些线上研讨会使用
 - **Swiftcord**，原生的 Discord 客户端，更简洁一点
 - **钉钉**，工作沟通以及偶尔处理我妹妹学校的一些信息用
@@ -360,6 +366,7 @@
   - **微博**，官方客户端，主要股票内资讯获取与发布平台
   - **豆瓣**，iOS 端
   - **少数派**，用来看一些工具类资讯
+  - **Instapaper**，稍后读应用 iOS 端
   - **Outlook**，iOS 端
   - **Mail**，苹果自带邮件应用
 - 👨🏻‍💻 工作求职
@@ -390,9 +397,10 @@
   - **微信**，iOS 端
   - **腾讯会议**，iOS 端
   - **钉钉**，iOS 端
+  - **Zoom**，iOS 端
   - **Telegram**，iOS 端
   - **Discord**，iOS 端
-  - **Clubhouse**，语音聊天室工具，热度过去了现在用得也比较少了
+  - ~~**Clubhouse**，语音聊天室工具，热度过去了现在用得也比较少了~~
   - ~~**QQ**，iOS 客户端，已弃用~~
 - 🎸 影音娱乐
   - ~~**Infuse**，iOS 端，可以局域网连接 Mac Studio 的 Plex 媒体库服务器，取消订阅后弃用了~~
