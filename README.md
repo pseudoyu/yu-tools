@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 6 月 27 日更新）
+# 个人工具箱（2022 年 7 月 1 日更新）
 
 ## 前言
 
@@ -14,7 +14,8 @@
 
 - **Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感
 - **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用
-- **Google Pixelbook Go 黑色，Intel Core i7, 16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
+- **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
+- **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
 - **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
 - **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以打算长期连家里的 Mac Studio，HHKB 随身外带
@@ -109,6 +110,7 @@
 - **ClashX**，网络代理工具，买 Surge 前主力用的，现在留了一个备用线路
 - **Tunnelblick**，openvpn 客户端，连接公司内网服务器使用
 - ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网，还是换成 Tunnelblick 了~~
+- **VNC Viewer**，远程桌面工具，用来连接树莓派显示桌面
 - **Chrome**，因为开始用 Chromebook，所以把主力浏览器换成了 Chrome
   - **AdGuard**，去广告插件
   - **MetaMask**，钱包插件
@@ -154,6 +156,7 @@
 - **Hazel 5**，自动化同步 macOS 文件，用来把坚果云的简悦目录同步到 Logseq 目录
 - **numi**，基于文本的计算器，用了免费版来计算汇率
 - **Noise Smith**，白噪音工具，可以自己组合各种声音，适合做背景音
+- **Raspberry Pi Imager**，给树莓派制作镜像的官方工具
 
 ### 📝 记录工具
 
