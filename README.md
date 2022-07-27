@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 7 月 8 日更新）
+# 个人工具箱（2022 年 7 月 27 日更新）
 
 ## 前言
 
@@ -8,7 +8,7 @@
 
 ## 主要设备
 
-![my_desktop_setup_in_2022_may](https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/my_desktop_setup_in_2022_may.jpeg)
+![my_desktop_setup_in_2022_may](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/my_desktop_setup_in_2022_may.jpeg)
 
 ### :computer: 电脑及配件
 
@@ -56,7 +56,7 @@
 
 ## 软件工具
 
-![my_softwares_in_may_2022](https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/my_softwares_in_may_2022.png)
+![my_softwares_in_may_2022](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/my_softwares_in_may_2022.png)
 
 ### 🛠 系统拓展
 
@@ -133,6 +133,7 @@
   - **uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
   - **Instapaper Save**，稍后读应用，保存一些比较精品的文章
 - **Brave**，插件和 Chrome 保持一致，不过因为用了 Chromebook，还是更依赖 Chrome，这个作为开发使用
+- **Arc**，一个很新很酷的浏览器，刚获得内测权限，体验一下试试
 
 ### 🧰 实用工具
 
@@ -304,7 +305,7 @@
 
 ### 📲 手机 App
 
-![yu_ios_apps](https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/yu_ios_apps.png)
+![yu_ios_apps](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/yu_ios_apps.png)
 
 - 🛠 系统拓展
   - **熊猫吃短信**，过滤垃圾短信，很好用
