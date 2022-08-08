@@ -15,6 +15,7 @@
 
 
 ## TODO
+
 - 自我提醒：我也有这种想法，甚至怀疑自己可能到了 'Productivity Porn' 的地步，最近确实生活糟糕，不明白我是为了逃避现实而开启的此文，还是怎样？
 
 ## win 软件工具
@@ -35,7 +36,7 @@ win 平台——大家都明白，不同的开发单位对标准的理解不同�
 | TrafficMonitor  | Wallpaper Engine  |
 | Everything  | TranslateTB  |
 | PowerToys  | RoundTB  |
-| 火绒  | 酷呆桌面 |
+| 火绒  | 酷呆桌面（coodesker） |
 | 快贴  |  |
 | QuickLook  |  |
 | ActivityWatch  |  |
@@ -46,13 +47,56 @@ win 平台——大家都明白，不同的开发单位对标准的理解不同�
 
 ### C盘软件
 
-### D盘软件
+roam research
+
+### D盘 software（轻）300G
+
+1. blender 数据与项目存储在F盘 按键自己改过，记得修改。
+2. 飞书 
+3. 微信
+4. 钉钉
+6. 腾讯会议
+7. 腾讯QQ
+8. 小丸工具箱
+9. 后羿采集器
+10. popplay
+11. purewriter
+12. zotero
+13. obs studio
+14. capture
+15. zoom
+16. python
+17. git
+18. fiddle
+19. LosslessCut-win
+20. mactype
+21. screenttogit
+22. vivetoolgui
+23. figma agent
+24. Google chrome 
+25. islide tools
+26. 搜狗输入法 电脑上是QQ私人号
+27. B站录播机
+
+### F盘  Resources 400G
+### G盘 Games and Data （重）300G
+
+24. steam
 
 #### 代码软件
 
 - Git
 - VSCode
 - Tabby
+
+字体
+B612 mono
+pt-momo
+未来莹黑
+霞鹜文楷
+
+DNS修改软件
+rustdesk
 
 # WEB（Chrome）内插件
 
@@ -61,6 +105,8 @@ win 平台——大家都明白，不同的开发单位对标准的理解不同�
 ### 不同目的工作软件
 
 ### 即插即用类免安装工具集合
+
+picgo
 
 可在U盘以及OneDrive里面各备份一份。
 
