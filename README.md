@@ -16,6 +16,7 @@
 - **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用
 - **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
 - **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用
+- **明基（BenQ）EW3270U 4K 显示器**，配合 Mac Studio 使用，在这个价位的 4K 里已经很不错了
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
 - **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
 - **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以打算长期连家里的 Mac Studio，HHKB 随身外带
