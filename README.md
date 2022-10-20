@@ -1,4 +1,4 @@
-# 个人工具箱（2022 年 9 月 19 日更新）
+# 个人工具箱（2022 年 10 月 21 日更新）
 
 ## 前言
 
@@ -164,6 +164,7 @@
 - **Noise Smith**，白噪音工具，可以自己组合各种声音，适合做背景音
 - **Raspberry Pi Imager**，给树莓派制作镜像的官方工具
 - **LanguageTool**，一个类似于 Grammarly 的语法检查工具，使用了一下感觉不错
+- **Adobe Acrobat**，有了 Adobe 的正版授权，就装上了，那么多年过去居然还是感觉很卡
 
 ### 📝 记录工具
 
@@ -213,6 +214,7 @@
   - ~~**Atom**，完全转向 VS Code，所以也不用了，体验差太多了~~
   - ~~**JetBrains PyCharm Professional Edition**，Python 编辑器，现在不怎么永乐~~
   - **Xcode**，macOS 及 iOS 开发 IDE
+  - **Fleet**，申请了快一年的内测，等到了公测，但目前连插件市场都没有，体验了一下有点失望
 - 终端
   - **iTerm2**，之前一直用，现在主要用来切多个服务器，作为主力终端了
   - **Warp**，新尝试的 Rust 编写的终端，体验感很棒
@@ -256,6 +258,10 @@
 
 - **Final Cut Pro X**，当时优惠价买了全家桶，从 PR 转到了 FCPX 作为主力剪辑工具，在 macOS 上比 PR 体验好多了
 - **Davince Resolve**，之前学过一点但是主要用的还是 FCPX，重新学一下，免费版就差不多
+- **Adobe Premiere Pro 2023**，以前用了三四年 PR 转到了 FCPX，但是留着偶尔处理一些复杂效果还不错
+- **Adobe After Effect 2023**，至今没学明白，本科的时候很想搞特效，但是没好好学
+- **Adobe Media Encoder 2023**，这个倒是真的很好用，当时 PR 压制一堆视频的时候全靠这个了
+- **Adobe Audition 2023**，Mac 上确实没有什么很好的音频处理工具，Logic Pro 感觉有点大材小用且复杂度有点高，做一些基本的声音处理 AU 还是更强的
 - **剪映专业版**，语音识别智能匹配字幕的功能很强大，3.0 版本还支持导出 `.srt` 格式了，再通过一个开源的 [srt2fcpxml](https://github.com/GanymedeNil/srt2fcpxml) 工具转回 FCPX 兼容的的字幕格式导入回 FCPX，简化字幕制作工作流，再也不用自己一点点对时间轴了
 - **Compressor**，主力压制工具，配合 FCPX 一些预设可以很便捷联动导出
 - **HandBrake**，备用开源视频压制工具，作一些简单压缩转码使用了
@@ -266,26 +272,29 @@
 - **Affinity Photo**，替代 Photoshop 的修图和调色工具，我拍完照后会用来处理和套 Luts
 - **Pixelmator Pro**，黑五半价买的，据说很强大，不过还没怎么用
 - **Luminar 4**，做一些简单的效果处理会比 Affinity Photo 更便捷
+- **Adobe Photoshop 2023**，以前重度依赖，之前为了教一个朋友又重新学了一下，不过大部分日常需求我都用 Affinity Photo 了
+- **Adobe illustration 2023**，编辑矢量图的，以前弄过一点字体，也没深度用过
+- **Adobe InDesign 2023**，用来排版的，不过感觉自己还是用 Photoshop 做更习惯
 
 ### 📮 邮件管理
 
-- **Spark**，电子邮件聚合工具，多端同步也很快，现在所有邮箱都通过 Spark 来管理了
+- **Mail**，Apple 自带邮件客户端，回归原生了
 - **Alimail**，工作用邮箱
 - **Outlook**，主要用来管理 Office365 开发者帐号
-- **Mail**，Apple 自带邮件客户端
+- ~~**Spark**，电子邮件聚合工具，多端同步也很快，现在所有邮箱都通过 Spark 来管理了，突然学校邮箱登录不上了，而且好像升级订阅制了，舍弃了~~
 
 ### 📨 信息管理
 
 - **Telegram + n8n**，个人信息流聚合系统，把自己的 Twitter、YouTube、GitHub、豆瓣、Spotify 资讯聚合到个人群组里，方便梳理和记录
 - **NetNewsWire**，RSS 订阅工具，多端同步很方便，慢慢转向 RSS 为自己的主要信息输入了
 - **Spring**，尝试的新推特客户端，不过感觉消息通知这一块有点问题，还在体验
-- **TweetBot**，在电脑端用来发布和刷 Twitter 的客户端，主要是可以通过时间轴排列
+- ~~**TweetBot**，在电脑端用来发布和刷 Twitter 的客户端，主要是可以通过时间轴排列，用 Spring 完全替代了~~
 - **Books**，Apple 自带图书应用，可导入 epub 或 pdf 文件阅读
 - 域名及个人网站
   - **GitHub Pages**，配合 GitHub Action 实现自动部署
   - **Cloudflare**，管理域名，以及对网站进行 CDN 加速
   - **Vercel**，配合 Railway 的数据库部署了博客的 Cusdis 评论系统
-  - **Rail**，也是一个 PaaS 平台，部署了 Cusdis 的数据库和 umami 全套网站数据统计系统
+  - **Railway**，也是一个 PaaS 平台，部署了 Cusdis 的数据库和 umami 全套网站数据统计系统
 - [**豆瓣**](https://www.douban.com/people/pseudo-yu)，通过 GitHub Action 每天抓取豆瓣提供的 RSS，统计我的影音和书籍并更新到 GitHub 主页和个人网站介绍页里，也通过 Chrome 的一个叫“豆伴”的插件来定时备份和导出
 
 ### 💬 通讯社交
