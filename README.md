@@ -8,7 +8,7 @@
 
 ## 主要设备
 
-![my_desktop_setup_in_2022_may](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/my_desktop_setup_in_2022_may.jpeg)
+![my_desktop_setup_in_2022_may](https://image.pseudoyu.com/images/my_desktop_setup_in_2022_may.jpg)
 
 ### :computer: 电脑及配件
 
@@ -58,7 +58,7 @@
 
 ## 软件工具
 
-![my_softwares_in_may_2022](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/my_softwares_in_may_2022.png)
+![my_softwares_in_may_2022](https://image.pseudoyu.com/images/my_softwares_in_may_2022.png)
 
 ### 🛠 系统拓展
 
@@ -333,7 +333,7 @@
 
 ### 📲 手机 App
 
-![yu_ios_apps](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/yu_ios_apps.png)
+![yu_ios_apps](https://image.pseudoyu.com/images/yu_ios_apps.png)
 
 - 🛠 系统拓展
   - **熊猫吃短信**，过滤垃圾短信，很好用
