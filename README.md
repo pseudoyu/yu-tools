@@ -1,4 +1,4 @@
-# 个人工具箱（2023 年 02 月 05 日更新）
+# 个人工具箱（2023 年 12 月 10 日更新）
 
 ## 前言
 
@@ -8,27 +8,33 @@
 
 ## 主要设备
 
-![my_desktop_setup_in_2022_may](https://image.pseudoyu.com/images/my_desktop_setup_in_2022_may.jpg)
+![yu_new_desk_setup](https://image.pseudoyu.com/images/yu_new_desk_setup.jpg)
 
 ### :computer: 电脑及配件
 
 - **Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感
-- **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用
+- **Apple MacBook Pro (14-inch, 2023) 银色，M2 Max，64GB RAM，1T SSD**，因为出门比较多，还是用公司的设备津贴添置了 14 寸，确实比 16 带出去负担小多了
+- ~~**Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，原本高频使用高频使用，基本走哪都会背着，在公司外接显示屏使用~~，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦，更新了 M 芯片后闲置了
 - **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
 - **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用
 - **明基（BenQ）EW3270U 4K 显示器**，配合 Mac Studio 使用，在这个价位的 4K 里已经很不错了
+- **戴尔 U2720Q 4K 显示器**，又新增了一个显示器，屏幕素质和色彩比明基好，感觉 27 寸也比较足够了
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
 - **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
 - **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以打算长期连家里的 Mac Studio，HHKB 随身外带
 - **Xikii Industry 瀚文 75 客制化键盘，高能制造局限定款**，和 B 站联名的小粉键盘，家里主机的主力键盘
-- ~~**RealForce PFU 联名版 87 键，黑色**，备用键盘，也是静电容经典了，但是没有很习惯，可能后面玩游戏会用，毕竟 HHKB 键位特殊（寄给朋友了）~~
-- ~~**MM-Studio Class65 V2 客制化双模机械键盘，复古白**（原本想通过这把入坑客制化，但是没心情折腾了，等了三个月发团，刚到手就原价转卖了）~~
-- **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
+- **NuPhy Air60 无线键盘**，厂家寄过来的，手感一般但是颜值很高，不过后面还是主要用 HHKB
+- ~~**RealForce PFU 联名版 87 键，黑色**，备用键盘，也是静电容经典了，但是没有很习惯，可能后面玩游戏会用，毕竟 HHKB 键位特殊~~，寄给朋友了
+- ~~**MM-Studio Class65 V2 客制化双模机械键盘，复古白**~~，原本想通过这把入坑客制化，但是没心情折腾了，等了三个月发团，刚到手就原价转卖了
+- ~~**Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
 - **Logitech MX Master 3 鼠标，灰色**，主力鼠标，手感和侧键功能都很棒，配合剪视频也很棒
 - **Apple Magic Mouse 2 鼠标，白色**，手感不太行，基本上不用了
 - **Apple Magic Trackpad 触控板，白色**，在家配合着鼠标使用，体验感不错
 - **闪极 100W Pro 氮化镓 GaN 充电器，黄色**，外出携带，终于摆脱了苹果 96w 的大块头充电器
-- **硬糖磁吸无线充电座**，和谜底时钟的联名款，用来无线充电和当支架体验不错，但是感觉充 AirPods Pro 有点发热
+- **闪极全透明移动电源**，收到的礼物，很酷炫，不过据说很容易有划痕，当艺术品摆着了
+- **制糖磁吸无线充电座**，和谜底时钟的联名款，用来无线充电和当支架体验不错，但是感觉充 AirPods Pro 有点发热
+- **制糖 120w 小电拼**，贴在家里书桌凳子下面，多口确实很方便，不过感觉电流声有点重
+- **制糖 35w DIY 充电头**，收到的礼物，上面画了一只章鱼
 
 ### :iphone: 手机及平板
 
@@ -41,6 +47,7 @@
 - **Sony A7M3 微单相机，黑色**，大学攒了好久才买的第一台微单，摄影和视频都很全能，跟着我好多年了，到现在依然很够用
 - **Sony 24-105mm F4 相机镜头**，跟相机一起买的，出门基本上这一只大师镜头就足够应对绝大多数场景，虽然光圈只有 F4，但是成像品质真的高
 - **Sony 55mm F1.8 蔡司相机镜头**，收到的礼物，也是最喜欢的定焦镜头，主要用来拍人像
+- **Sony ZV-1 II Vlog 相机**，更多为了记录生活买的，确实带出去心智负担小很多，调了和 A7M3 一样的图像配置来保证画面一致
 - **罗德 Wireless Go 无线麦克风**，之前录视频用得比较多，便携易用，声音也很不错，后面会考虑多录一些视频
 - **DJI RS 3**，相机稳定器，之前用过如影 S，但是体验一般，终于第三代了，打算开始拍一些视频
 
@@ -60,7 +67,9 @@
 
 - **Kindle Oasis 2 电子书阅读器**，以前看得比较多，现在基本上看实体书以及手机 Books 上看
 - **Nintendo Switch 主机，动物森友会特别版**，主要用来玩宝可梦，[从 18 年开始陆陆续续也买了不少游戏](https://pseudoyu.notion.site/f5f9e6e31b4744a7a1284eaf55451462?v=6e3be0ced2f44305b9ff3a8298e72de5)，很多都还没来得及玩，卡带收藏爱好者
+- **Steam Deck 512G**，收到的礼物，填补了我没有 Win 主机来玩游戏的设备空缺，不过其实一直没什么空玩，现在 OLED 版本都出了
 - **Nintendo Switch Pro 手柄，任天堂明星大乱斗特别版**，体验感比自带的 Joy-Con 好多了
+- **Pokemon Go Plus**，记录自己睡眠，原本也有手机 app，但是得一直开着很耗电所以买来单独记录了
 
 ## 软件工具
 
@@ -78,7 +87,7 @@
 - **BetterTouchTool**，触控板及 Touchbar 管理，主要给 Macbook Pro 配置触控版用的
 - **yabai + skhd**，开源的 Mac 窗口管理工具，通过多桌面+自动分屏+配置 vim-like 的快捷键来进行手动管理，体验感很好，弃用了 Magnet 和 BetterTouchTool 附带的窗口吸附功能
 - ~~**Magnet**，分屏工具，已弃用~~
-- **AltTab**，和 Windows 体验一致的多窗口切换工具，可以选择同个应用的多个不同项目
+- ~~**AltTab**，和 Windows 体验一致的多窗口切换工具，可以选择同个应用的多个不同项目~~，后来类似的需求用 Manico 替代了
 - **iStat Menus**，系统状态显示，主要显示 CPU、内存和网络等状态
 - **AirBuddy**，耳机管理工具，感觉连接耳机更顺滑了一些
 - **HazeOver**，桌面效果工具，显示效果很不错
@@ -93,8 +102,13 @@
 - **TinderTool**，一个免费的系统设置拓展工具，提供了很多实用的额外配置，我主要用来去除截图阴影
 - **KeyCastr**，一个开源的键盘按键显示工具，比如按下对应的键会显示，用于录制一些教程
 - **Dockface**，一个在 Dock 栏显示系统状态的小拓展工具，Surge 的作者做的，体验了一下还挺有意思
-- ~~**Maccy**，一个开源的剪贴板工具，很简约，不过感觉我还是更适应 Alfred 的操作逻辑，还在适应看看（目前还是回归了 Alfred）~~
+- ~~**Maccy**，一个开源的剪贴板工具，很简约，不过感觉我还是更适应 Alfred 的操作逻辑，还在适应看看~~，目前还是回归了 Alfred
 - **RunCat**，一个在菜单栏跑动的小猫，显示系统运行状态的，挺有意思的一个小组件
+- **Manico**，快捷键设置应用启动，听说了好多年最近才真正用上
+- **Rewind**，一个记录和检索电脑行为的 AI 应用，感觉兼具了检索和 Time Machine 这样的文件备份功能，还有会议自动总结，每日行为这样的功能，体验了一阵子很有意思，不过其实还没有过多真正有生产力的用途，更多是尝鲜
+- **Command X**，一个为 macos 提供文件剪切功能的拓展
+- **Hyperduck**，用 ios 端发送应用到 macOS，替代隔空传送
+- **HEIC Converter**，把 iPhone 拍出来的图片转成比较通用的 png/jpg 格式
 
 ### 📁 文件管理
 
@@ -102,31 +116,31 @@
 - **iCloud**，200GB 空间，主要用于照片备份与软件数据同步
 - **Dropbox**，2GB 空间，主要配合 Cryptomator 对敏感数据加密备份
 - **IPFS Desktop**，去中心化存储，主要还是连接本地文件下载，目前还没有持续运行
-- ~~**坚果云**，用来同步简悦配置和文档（放弃简悦了）~~
-- ~~**阿里云盘**，主要用来保存一些影视、剧集资源，也不怎么用了~~
-- ~~**Google Drive**，1TB 空间（因学校从 Google 服务转向 Microsoft 服务，已弃用）~~
-- ~~**百度网盘**，存储影音及备份工具（以前存储大量视频剪辑文件用，已弃用）~~
+- ~~**坚果云**，用来同步简悦配置和文档~~，放弃简悦了）
+- ~~**阿里云盘**，主要用来保存一些影视、剧集资源~~，不怎么用了
+- ~~**Google Drive**，1TB 空间~~，因学校从 Google 服务转向 Microsoft 服务，已弃用
+- ~~**百度网盘**，存储影音及备份工具~~，以前存储大量视频剪辑文件用，已弃用
 
 ### 🔐 安全工具
 
 - **ElPass**，密码管理工具，界面很喜欢，OTP 以及 Server 管理功能很惊艳，现在所有帐号、密码、证件和银行卡都在这里管理了，用 iCloud 和 Dropbox 进行同步和备份
 - **GPG Keychain**，macOS GPG 加密工具客户端，主要用来为 Git 提交进行签名
 - **Cryptomator**，文件目录加密工具，用于加密备份证件等隐私数据，配合网盘使用
-- **DAMA**，图片隐私打码工具，通过 TestFlight 尝鲜了测试版
+- ~~**DAMA**，图片隐私打码工具，通过 TestFlight 尝鲜了测试版~~，后面好像不更新了
 
 ### 🌏 网络工具
 
 - **Surge**，网络代理、调试工具，家里的 Mac Studio 通过 Surge 来作为家里 Wifi 的 DHCP 服务器，接管家里的网络实现全网代理，主要给 iPad 访问外网以及 Switch 下载游戏加速用
 - **AdGuard Home**，通过网络流量过滤与 DNS 实现去广告，很强大
 - **ClashX**，网络代理工具，买 Surge 前主力用的，现在留了一个备用线路
-- **Tunnelblick**，openvpn 客户端，连接公司内网服务器使用
-- ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网，还是换成 Tunnelblick 了~~
+- ~~**Tunnelblick**，openvpn 客户端，连接公司内网服务器使用~~，换工作后不用了
+- ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网，~~还是换成 Tunnelblick 了
 - **VNC Viewer**，远程桌面工具，用来连接树莓派显示桌面
-- **Chrome**，因为开始用 Chromebook，所以把主力浏览器换成了 Chrome
+- **Arc**，最近刚更换为 Arc，使用体验很好，Chrome 迁移没什么成本
   - **AdGuard**，去广告插件
   - **MetaMask**，钱包插件
   - **Elpass**，自动填充密码
-  - **简悦 + 同步助手**，通过插件记录稍后读和批注，并且增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中
+  - ~~**简悦 + 同步助手**，通过插件记录稍后读和批注，并且增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中~~，弃用了，全面拥抱 Readwise
   - **豆伴**，备份和查看豆瓣数据
   - **YouTube Dual Subtitles**，支持多语言字幕
   - **YouTubeEnhancer**，增强 YouTube 播放器功能
@@ -136,7 +150,19 @@
   - **uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
   - **Instapaper**，稍后读应用，保存一些比较精品的文章
   - **LanguageTool**，语法检查插件
-- **Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步
+  - **ClearURLs**，去掉链接里的各种应用跟踪参数的
+  - **Immersive Translate**，双语对照的英文翻译插件，owen 做的，作为早期支持者送了一年的会员，更多还是用 DeepL，偶尔用 ChatGPT 翻译
+  - **MetaDock**，增加区块链浏览器信息的插件
+  - **Minimal Theme for Twitter / X**，精简 Twitter 界面
+  - **Not yet, AV1**，去掉 AV1 播放格式，忘记为什么装了，用起来比较无感
+  - **Notepal**，同步微信读书的笔记到 Readwise，Randy 做的，很依赖这个来管理我的读书信息
+  - **Pinboard Tools**，添加书签到 pinboard 平台的，换了 Arc 后发现还是插件版本好用一点，直接直接用菜单栏 js 的
+  - **Readwise Highlighter**，用来给文章添加收藏和加批注的
+  - **Refgen**，复制的时候去掉后面的链接并且转换为 markdown 格式的小工具，reorx 做的
+  - **RSSHub Radar**，检测当前页面 RSSHub 链接
+  - **Time Tower**，记录在各个网页上花的时间，类似于 Wakatime/RescueTime，但是完全本地化
+- ~~**Chrome**，因为开始用 Chromebook，所以把主力浏览器换成了 Chrome~~，只有 Chromebook 还在用，其他的设备切换为 Arc 了，插件同上
+- ~~**Safari**，~~主力~~辅助浏览器，通过 iCloud 多设备同步~~，改用 Arc 后电脑端完全启用了，手机还是在用
   - **AdGuard Home**，去广告插件
   - **Elpass**，自动填充密码
   - **Downie**，下载插件，一键识别媒体并下载
@@ -145,14 +171,13 @@
   - **uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
   - **Instapaper Save**，稍后读应用，保存一些比较精品的文章
   - **LanguageTool**，语法检查插件
-- **Brave**，插件和 Chrome 保持一致，不过因为用了 Chromebook，还是更依赖 Chrome，这个作为开发使用
-- **Arc**，一个很新很酷的浏览器，刚获得内测权限，体验一下试试
+- **Brave**，主要用来调试合约使用
 
 ### 🧰 实用工具
 
 - **Bob**，划词/截图翻译工具，配合 [DeepL X 拓展插件](https://github.com/clubxdev/bob-plugin-deeplx)和 [zu1k](https://zu1k.com) 大佬发布的 [DeepL Free Api Docker 镜像](https://github.com/zu1k/deepl-api-rs)，完美体验，后面还更新了独立的 OCR 功能，更强大了
 - **Tern-Subtitle File Translator**，我配合了 IBM 提供的 API，进行字幕自动中英翻译
-- **qBittorrent**，通过 RSS 管理器来订阅特定 PT 站的番剧等媒体资源，自动更新下载
+- ~~**qBittorrent**，通过 RSS 管理器来订阅特定 PT 站的番剧等媒体资源，自动更新下载~~，订阅了流媒体后用得比较少
 - **Downie**，视频源下载工具，下载 YouTube 或者 B 站的一些视频，作剪辑素材用
 - **PicGo**，图床管理工具，主要写博客的时候上传图片到 GitHub 图床并且生成自定义的 Markdown 格式，可以直接嵌入文章
 - **BetterZip**，压缩/解压工具，基本上装机必备了，目前遇到的格式都支持了
@@ -172,9 +197,13 @@
 - **Noise Smith**，白噪音工具，可以自己组合各种声音，适合做背景音
 - **Raspberry Pi Imager**，给树莓派制作镜像的官方工具
 - **LanguageTool**，一个类似于 Grammarly 的语法检查工具，使用了一下感觉不错
-- **Adobe Acrobat**，有了 Adobe 的正版授权，就装上了，那么多年过去居然还是感觉很卡
-- **ChatGPT**，ChatGPT 的 macOS 端，整体使用比网页端稳定一些
-- **图压**，刚看到一个新的压缩工具，据说比 TinyPNG 好用，看起来可配置项比较多，会试试
+- ~~**Adobe Acrobat**，有了 Adobe 的正版授权，就装上了，那么多年过去居然还是感觉很卡~~，Preview + PDF Expert 完全够用了
+- ~~**图压**，刚看到一个新的压缩工具，据说比 TinyPNG 好用，看起来可配置项比较多，会试试~~，还是更喜欢
+- ~~**ChatGPT**，ChatGPT 的 macOS 端，整体使用比网页端稳定一些~~
+- **QuickGPT**，一个 macOS 端的 GPT 套壳应用，使用起来很轻量
+- **Amazing AI**，通过 Apple M 芯片绘图的应用，用的 Stable Diffusion，很有意思
+- **Aiko**，音频转译工具
+- **Whisper Transciption**，同样是音频转文字，但是支持很多生成格式，也有对 Podcast 的处理
 
 ### 📝 记录工具
 
@@ -184,12 +213,13 @@
 - **Office 365**，主要文档/PPT/表格处理工具，其实工作后已经主要都是 Markdown 写为主了，但是最后还是得通过 Word 来排版
 - **iWork 全家桶**，Apple 自带文档处理工具
 - **Typora**，主要 Markdown 编辑器，最完美的 Markdown 编辑器了，偶尔要转存一些文本的时候也会通过 Alfred 唤出来
-- **妙言**，[tw93](https://github.com/tw93) 大佬开发的 Markdown 编辑器，比较简约，尝试一下
-- **Nota**，一个正处于 beta 阶段的很强大的所见即所得 Markdown 编辑器，正在探索新功能
+- ~~**妙言**，[tw93](https://github.com/tw93) 大佬开发的 Markdown 编辑器，比较简约，尝试一下~~，后来没在用了
+- ~~**Nota**，一个正处于 beta 阶段的很强大的所见即所得 Markdown 编辑器，正在探索新功能~~，后来没在用了
 - **MarginNote 3**，用来阅读一些论文、书籍的工具，用得不算很多
-- **XMind8 Pro**，主要思维导图工具，之前在学校的时候做笔记用的比较多，工作后反而系统性学习整理得少了，需要保持习惯
+- ~~**XMind8 Pro**，主要思维导图工具，之前在学校的时候做笔记用的比较多，工作后反而系统性学习整理得少了，需要保持习惯~~，偶尔使用还是用 logseq 插件或者是 Heptabase 内置的
 - **Pinboard**，老牌的书签管理工具，结合 n8n 自动化记录到我的 [Telegram 频道里](https://t.me/pseudoyulife)，方便查看
-- **Craft**，趁黑五五折订阅了 Pro 会员，其实笔记倒是不需要，已经完全在 Logseq 了，没有迁移的打算，这个主要想用来替代腾讯文档这些的，又不想用飞书，一直想体验下
+- ~~**Craft**，趁黑五五折订阅了 Pro 会员，其实笔记倒是不需要，已经完全在 Logseq 了，没有迁移的打算，这个主要想用来替代腾讯文档这些的，又不想用飞书，一直想体验下~~，还是有点用不习惯，可能没有太多在线协作的需求
+- **Heptabase**，最近开始尝试的一个白板笔记应用，很惊喜
 
 ### 👨🏻‍💻 开发工具
 
@@ -263,8 +293,8 @@
   - **GitKraken**，GitHub Education 送的，界面还不错，偶尔看看
   - **Tower**，GitHub Education 送的
   - ~~**Fork**，git 客户端工具（已弃用，改为命令行配合 alias）~~
-  - **GitHub**，我的个人博客、图床以及开发项目都通过 GitHub 管理
-  - **GitLab**，工作项目通过公司 GitLab 进行管理
+  - **GitHub**，我的个人博客、图床以及开发项目都通过 GitHub 管理，后面工作也转向 GitHub 进行管理
+  - ~~**GitLab**，工作项目通过公司 GitLab 进行管理~~，换工作后不用了
 - 实用工具
   - **DevUtils**，最近项目里频繁用到 json 格式化和时间戳转换，总是搜索在线工具很麻烦，趁着黑五入手了，感觉不错！
   - **CodeSpeedy**，Randy 开发的一个可以管理和同步代码片段并同步到 VSCode 的工具
@@ -311,21 +341,21 @@
   - **Vercel**，配合 Railway 的数据库部署了博客的 Cusdis 评论系统
   - **Railway**，也是一个 PaaS 平台，部署了 Cusdis 的数据库和 umami 全套网站数据统计系统
 - [**豆瓣**](https://www.douban.com/people/pseudo-yu)，通过 GitHub Action 每天抓取豆瓣提供的 RSS，统计我的影音和书籍并更新到 GitHub 主页和个人网站介绍页里，也通过 Chrome 的一个叫“豆伴”的插件来定时备份和导出
-- **Cron**，日历/日程管理软件，很早就拿到了内测但是一直没体验太深
+- **Cron**，主要用来管理自己 Google Calendar 上的日程
 
 ### 💬 通讯社交
 
 - **微信**，生活和工作大部分都还是会通过微信沟通
-- **Texts**，一个可以聚合多个平台的即时通讯管理工具，如 Telegram、Twitter 私信、Discord、领英等，可以不用开那么多了
+- ~~**Texts**，一个可以聚合多个平台的即时通讯管理工具，如 Telegram、Twitter 私信、Discord、领英等，可以不用开那么多了~~，后来用得相对也少一点了，功能上还是不能代替掉所有的原有客户端，就没必要多开了
 - **Telegram**，新建了[个人频道](https://t.me/pseudoyulife)，添加了自己的信息流自动化系统，并且用来代替微信存储临时文件，常用
 - **腾讯会议**，工作用，主要会议工具
 - **Zoom**，最近跟在留学的朋友一起讨论问题又下回来了
 - **Microsoft Teams**，偶尔参加一些线上研讨会使用
 - **Swiftcord**，原生的 Discord 客户端，更简洁一点
-- **钉钉**，工作沟通以及偶尔处理我妹妹学校的一些信息用
-- **飞书**，因为少数派约稿需要通过飞书沟通，使用了一下，体验感比钉钉强多了
-- **Slack**，上 Uedmy 的一门课程跨入社群使用的
-- **Rocket.Chat**，工作中使用的一个协作软件，可以集成 GitLab 提交等
+- ~~**钉钉**，工作沟通以及偶尔处理我妹妹学校的一些信息用~~，卸载了
+- ~~**飞书**，因为少数派约稿需要通过飞书沟通，使用了一下，体验感比钉钉强多了~~，但是也不太爱用
+- **Slack**，上 Uedmy 的一门课程跨入社群使用的，后来工作 IM 也是用的这个
+- ~~**Rocket.Chat**，工作中使用的一个协作软件，可以集成 GitLab 提交等~~，离职后不用了
 - ~~**Gather**，有趣的线上交流，正在推荐身边的朋友用，像宝可梦一样，能减轻疫情带来的距离感（好吧还是没人用）~~
 - ~~**Discord**，主要参加一些项目获取资讯用的，换了 Swiftcord，已弃用~~
 - ~~**QQ**，大学时学校常用，已弃用~~
@@ -335,13 +365,14 @@
 - **IINA**，之前订阅了 Infuse，但是感觉其实用得很少，而且对字幕识别这些一般般，所以放弃了还是选择了之前常用的开源方案 IINA
 - ~~**Infuse**，视频播放及媒体管理工具，全平台可用且支持格式很多，配合 Plex 这些媒体服务器可以建立自己本地的动漫、电影和剧集库，已弃用~~
 - ~~**Plex Media Server**，流媒体管理服务器，可以指定本地目录自动获取元数据进行媒体库管理，后来改为阿里云服务器进行远程访问，mac 本地服务端就弃用了~~
-- **Apple Music**，主要听歌软件，配合 iOS 上的 Music Mate 慢慢建立自己的音乐库
-- **Spotify**，备用听歌软件，主要是能接入 n8n 把喜欢的歌单记录进 Telegram 频道，考虑转换一下
+- ~~**Apple Music**，主要听歌软件，配合 iOS 上的 Music Mate 慢慢建立自己的音乐库~~，取消订阅了
+- **Spotify**，主要听歌软件，主要是能接入 n8n 把喜欢的歌单记录进 Telegram 频道，歌单功能也很强大
 - **Apple Podcasts**，主要用来听一些播客
-- **爱奇艺**，送的会员，偶尔用来追一些热门自制剧
+- ~~**爱奇艺**，送的会员，偶尔用来追一些热门自制剧~~，会员到期后不续了
 - **Netflix**，用来追一些最新剧集，新加坡订阅
-- **Disney+**，用来看一些迪士尼动画、漫威剧集和电影，不过用得也不多了，也是新加坡订阅
-- ~~**HBO Go**，订阅了台湾的 HBO，用来看权游和重温硅谷（追完后取消订阅了）~~
+- ~~**Disney+**，用来看一些迪士尼动画、漫威剧集和电影，不过用得也不多了，也是新加坡订阅~~，去掉订阅了
+- ~~**HBO Go**，订阅了台湾的 HBO，用来看权游和重温硅谷~~，追完后取消订阅了
+- **HBO Max**，拼车拼了一个，主要看硅谷
 - **YPlayer**，自动识别音视频字幕的，体验了一下还可以
 
 ### 📲 手机 App
@@ -357,8 +388,9 @@
   - **谜底黑胶**，个性化音乐播放组件
   - **谜底空白**，在屏幕中设置空白位置
   - **Vinegar+Baking Soda**，浏览器看视频使用 HTML5 播放器插件
-  - **Lock Launcher**，配合 iOS 16 的锁屏插件使用
-  - **Cloak**，一个可以隐藏 App 的拓展软件
+  - ~~**Lock Launcher**，配合 iOS 16 的锁屏插件使用~~，后来非常少用了
+  - ~~**Cloak**，一个可以隐藏 App 的拓展软件~~，尝鲜了一下后几乎也没怎么用过了
+  - **仓输入法**，因为用 Rime 所以体验了一下，感觉目前成熟度还是一般，切换回了系统自带
 - 📁 文件管理
   - **文件**，Apple 自带本地及 iCloud 文件管理
   - **OneDrive**，iOS 端
@@ -385,11 +417,16 @@
   - **PomoNow 2**，一个很有设计感的番茄钟，打算再试试番茄工作法了
   - **TablePlus**，数据库手机端，操作很不方便，但作为紧急备用还不错
   - **LEMO FM**，一个很有设计感的白噪音工具
+  - **OpenCat**，一个 ChatGPT 套壳 App
+  - **ChatX**，同样是 ChatGPT 套壳应用，但是页面更简洁好看
+  - **ReadID Me**，一个小应用，当时担心自己护照感应有问题，发现这个可以通过 NFC 来检测
+  - **Creator's App**，Sony 相机的手机端应用
 - 📝 记录工具
   - **Logseq**，iOS 端，主要用来查看
   - **Office 365**，iOS 端，通过 Office365 帐号和 OneDrive 进行同步
   - **iWork 全家桶**，iOS 端
-  - **Notability**，笔记工具
+  - ~~**Notability**，笔记工具~~，不怎么用 iPad 了
+  - **Heptabase**，iOS 端
 - 🪙 数字资产
   - **imToken**，iOS 数字钱包
   - **TokenPocket**，iOS 数字钱包
@@ -404,14 +441,14 @@
   - **Yeelight**，控制氛围灯模式
   - **小佩宠物**，控制宠物智能家居
   - **Health**，苹果自带健康数据记录应用，主要用来记录睡眠
-  - ~~**Grow**，联动健康应用，生成健康数据（懒得用了）~~
+  - ~~**Grow**，联动健康应用，生成健康数据~~，懒得用了后来
   - **Zepp Life**，联动小米体重秤等，记录健康数据
   - **EBO**，管理家里的 EBO 机器人的应用
 - 📨 信息管理
   - **Spark**，iOS 端
   - **NetNewsWire**，iOS 端
   - **Apple Books**，电子书阅读器，主要导入 epub 格式看
-  - **Patreon**，订阅及赞助支持某些技术大佬的平台
+  - ~~**Patreon**，订阅及赞助支持某些技术大佬的平台~~，后来也不怎么用了
   - **Twitter**，iOS 端，主要国外资讯获取与发布平台
   - **Spring**，iOS 端，同样消息通知这一块有点问题
   - **Instagram**，iOS 端，主要用来发布摄影和日常照片
@@ -420,11 +457,14 @@
   - **豆瓣**，iOS 端
   - **少数派**，用来看一些工具类资讯
   - **Instapaper**，稍后读应用 iOS 端
-  - **Outlook**，iOS 端
+  - ~~**Outlook**，iOS 端~~，转用自带为主
   - **Mail**，苹果自带邮件应用
   - **GitHub**，发现了移动端更新了修改代码功能，就下载备用一些
   - **RSSBud**，RSSHub 的 iOS 端，用得不算多
   - **DailyArt**，订阅了终生，每天会发一张艺术品的图
+  - **xLog Mobile**，xLog 区块链博客的 iOS 端，作为查看还是不错的
+  - ~~**Threads**，跟 ins 同源的 Fediverse 应用~~，体验了一阵子后再也没打开了
+  - **Readwise Reader**，手机端看 RSS
 - 👨🏻‍💻 工作求职
   - **LinkedIn**，看一些外企的机会
   - **BOSS 直骋**，国内找工作主要用
@@ -443,6 +483,7 @@
   - **航旅纵横 Pro**，用来查询航班信息、值机以及统计自己的出行，很好用
   - **北京通**，用来查询健康宝信息，配合 Locker Launcher 使用所以下载了 App
   - **足迹**，记录我每天的行为轨迹
+  - **Bolt**，在泰国打车很方便
 - 🛍 生活工具
   - **饿了么**，点外卖和水果
   - **淘宝**，买一些日常用品
@@ -451,6 +492,9 @@
   - **大麦**，看一些演出展览
   - **闲鱼**，偶尔会看下一些二手
   - **当当**，买纸质书，大多技术为主
+  - **OpenRice**，在国外找餐厅之类的，类似大众点评
+  - **Tripadvisor**，国外的马蜂窝
+  - **乐刻运动**，用来约健身私教课
 - 💬 通讯社交
   - **微信**，iOS 端
   - **腾讯会议**，iOS 端
