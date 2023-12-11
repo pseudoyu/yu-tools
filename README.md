@@ -14,8 +14,8 @@
 
 - **Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感
 - **Apple MacBook Pro (14-inch, 2023) 银色，M2 Max，64GB RAM，1T SSD**，因为出门比较多，还是用公司的设备津贴添置了 14 寸，确实比 16 带出去负担小多了
-- ~~**Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，原本高频使用高频使用，基本走哪都会背着，在公司外接显示屏使用~~，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦，更新了 M 芯片后闲置了
-- **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境
+- **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，~~高频使用，基本走哪都会背着，在公司外接显示屏使用~~，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦，更新了 M 芯片后闲置了，学姐在家偶尔用
+- **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，~~最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境~~，后面也还是很少用到，给学姐带去公司轻度办公使用
 - **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用
 - **明基（BenQ）EW3270U 4K 显示器**，配合 Mac Studio 使用，在这个价位的 4K 里已经很不错了
 - **戴尔 U2720Q 4K 显示器**，又新增了一个显示器，屏幕素质和色彩比明基好，感觉 27 寸也比较足够了
@@ -26,7 +26,7 @@
 - **NuPhy Air60 无线键盘**，厂家寄过来的，手感一般但是颜值很高，不过后面还是主要用 HHKB
 - ~~**RealForce PFU 联名版 87 键，黑色**，备用键盘，也是静电容经典了，但是没有很习惯，可能后面玩游戏会用，毕竟 HHKB 键位特殊~~，寄给朋友了
 - ~~**MM-Studio Class65 V2 客制化双模机械键盘，复古白**~~，原本想通过这把入坑客制化，但是没心情折腾了，等了三个月发团，刚到手就原价转卖了
-- ~~**Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
+- **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
 - **Logitech MX Master 3 鼠标，灰色**，主力鼠标，手感和侧键功能都很棒，配合剪视频也很棒
 - **Apple Magic Mouse 2 鼠标，白色**，手感不太行，基本上不用了
 - **Apple Magic Trackpad 触控板，白色**，在家配合着鼠标使用，体验感不错
