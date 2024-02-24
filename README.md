@@ -1,4 +1,4 @@
-# 个人工具箱（2024 年 2 月 21 日更新）
+# 个人工具箱（2024 年 2 月 24 日更新）
 
 ## 前言
 
@@ -109,6 +109,7 @@
 - **Command X**，一个为 macos 提供文件剪切功能的拓展
 - **Hyperduck**，用 ios 端发送应用到 macOS，替代隔空传送
 - **HEIC Converter**，把 iPhone 拍出来的图片转成比较通用的 png/jpg 格式
+- **Top Notch**，终于还是受不了 MBP 的刘海了，用这个工具把刘海隐藏了
 
 ### 📁 文件管理
 
@@ -259,9 +260,10 @@
   - ~~**Fleet**，申请了快一年的内测，等到了公测，但目前连插件市场都没有（体验了一下有点失望）~~
 - 终端
   - **iTerm2**，之前一直用，现在主要用来切多个服务器，作为主力终端了
-  - **Warp**，新尝试的 Rust 编写的终端，体验感很棒
-  - **NeoVim**，配置了 GitHub Copilot 等，尝试转移自己的开发流程到 Vim
+  - **Warp**，~~新尝试的 Rust 编写的终端，体验感很棒~~，果然还是更喜欢自己折腾的方案
+  - **NeoVim**，~~配置了 GitHub Copilot 等，尝试转移自己的开发流程到 Vim~~，转移失败，下次再试试
   - **Alacritty**，一个简洁可定制的终端工具
+  - **X-CMD**，朋友 [niracler](https://t.me/niracler_channel) 在做的一个工具，最近重装电脑后打算尝试用这个来搭建自己的整套命令行环境
 - 服务器管理
   - **ssh**，配合 Warp 和 iTerm2 的 Profile 来连接服务器用
   - **Termius**，服务器管理工具，主要是可以云端同步配置，跟公司同事调试测试的时候都不需要自己再配本地环境，比较方便，然后也使用 SFTP 来传文件
@@ -278,8 +280,9 @@
   - ~~**Postman**，以前用的接口调试工具，但是界面太繁杂了，而且反应有点慢，弃用了~~
 - 文档查看: **Dash**，配合 Alfred 查文档很方便
 - 容器
+  - **Orb Stack**，经过了一阵子的使用，用 Orb Stack 代替了下述所有的了，很稳定，界面也很好看
   - **Colima**，一个容器工具，以命令行的形式来管理容器，方便且占用资源少
-  - **Docker Desktop**，虽然占资源很高，但是确实方便。原本弃用了，但是由于使用项目使用 docker 的 Buildx 特性还是恢复使用了
+  - **Docker Desktop**，~~虽然占资源很高，但是确实方便。原本弃用了，但是由于使用项目使用 docker 的 Buildx 特性还是恢复使用了~~,Orb Stack 替代了
   - **Minikube**，打算考一下 CKAD，搭建本地 k8s 集群环境用的
 - 绘图工具
   - **PlantUML**，配合 GoLand 里插件通过语法画流程图，修改和版本维护很方便
@@ -290,8 +293,8 @@
     - [git-cz](https://github.com/commitizen/cz-cli)，交互式规范化提交信息
     - [git-chglog](https://github.com/git-chglog/git-chglog)，用来自动生成格式化 CHANGELOG
     - [git-delta](https://github.com/dandavison/delta)，git 语法输出语法高亮工具
-  - **GitKraken**，GitHub Education 送的，界面还不错，偶尔看看
-  - **Tower**，GitHub Education 送的
+  - **GitKraken**，~~GitHub Education 送的，界面还不错，偶尔看看~~，还是更习惯命令行
+  - **Tower**，~~GitHub Education 送的~~，几乎没用过
   - ~~**Fork**，git 客户端工具（已弃用，改为命令行配合 alias）~~
   - **GitHub**，我的个人博客、图床以及开发项目都通过 GitHub 管理，后面工作也转向 GitHub 进行管理
   - ~~**GitLab**，工作项目通过公司 GitLab 进行管理~~，换工作后不用了
