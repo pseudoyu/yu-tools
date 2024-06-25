@@ -1,4 +1,4 @@
-# 个人工具箱（2024 年 2 月 24 日更新）
+# 个人工具箱（2024 年 6 月 25 日更新）
 
 ## 前言
 
@@ -14,25 +14,26 @@
 
 - **Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感
 - **Apple MacBook Pro (14-inch, 2023) 银色，M2 Max，64GB RAM，1T SSD**，因为出门比较多，还是用公司的设备津贴添置了 14 寸，确实比 16 带出去负担小多了
-- **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，~~高频使用，基本走哪都会背着，在公司外接显示屏使用~~，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦，更新了 M 芯片后闲置了，学姐在家偶尔用
-- **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，~~最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境~~，后面也还是很少用到，给学姐带去公司轻度办公使用
-- **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用
-- **明基（BenQ）EW3270U 4K 显示器**，配合 Mac Studio 使用，在这个价位的 4K 里已经很不错了
-- **戴尔 U2720Q 4K 显示器**，又新增了一个显示器，屏幕素质和色彩比明基好，感觉 27 寸也比较足够了
+- **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，~~高频使用，基本走哪都会背着，在公司外接显示屏使用~~，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦，更新了 M 芯片后闲置了，放在家里接了个显示器
+- **Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，~~最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境~~，后面也还是很少用到，给家人带去公司轻度办公使用
+- **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，~~几年前折腾的树莓派，最近寄来了，现在 SSH 连接作为一个开发机使用~~，配置有点老了，基本上放着当装饰了，有考虑要不要入个 4b 系列的
+- **戴尔 U2720Q 4K 显示器**，又新增了一个显示器，屏幕素质和色彩比明基好，感觉 27 寸也比较足够了，现在主要配合 Mac Studio 使用
+- **几硕 FlipGo 16 寸，Pro 版本**，当作 Obsidian 记笔记、终端以及 ChatGPT 专用屏使用
+- **明基（BenQ）EW3270U 4K 显示器**，，在这个价位的 4K 里已经很不错了，现在连着之前 Intel 的 16 寸 MBP 用
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，有了这个后基本上家里没开过主光源了，可以无线控制调节，很有氛围感
-- **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，目前最爱的键盘
-- **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以打算长期连家里的 Mac Studio，HHKB 随身外带
-- **Xikii Industry 瀚文 75 客制化键盘，高能制造局限定款**，和 B 站联名的小粉键盘，家里主机的主力键盘
-- **NuPhy Air60 无线键盘**，厂家寄过来的，手感一般但是颜值很高，不过后面还是主要用 HHKB
+- **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，有点重，但是外出算是不错的选择，自己添置了一个键盘亚克力垫
+- **Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以长期连家里的 Mac Studio
+- **Xikii Industry 瀚文 75 客制化键盘，高能制造局限定款**，和 B 站联名的小粉键盘，现在放在家里的 MBP 上用
+- **NuPhy Air60 无线键盘**，厂家寄过来的，手感一般但是颜值很高，不过后面还是主要用 HHKB，不过确实真的很轻便，还刚好能卡在 MBP 上
 - ~~**RealForce PFU 联名版 87 键，黑色**，备用键盘，也是静电容经典了，但是没有很习惯，可能后面玩游戏会用，毕竟 HHKB 键位特殊~~，寄给朋友了
 - ~~**MM-Studio Class65 V2 客制化双模机械键盘，复古白**~~，原本想通过这把入坑客制化，但是没心情折腾了，等了三个月发团，刚到手就原价转卖了
-- **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后就基本上不用了
+- **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后闲置了
 - **Logitech MX Master 3 鼠标，灰色**，主力鼠标，手感和侧键功能都很棒，配合剪视频也很棒
-- **Apple Magic Mouse 2 鼠标，白色**，手感不太行，基本上不用了
+- **Apple Magic Mouse 2 鼠标，白色**，手感不太行，闲置了
 - **Apple Magic Trackpad 触控板，白色**，在家配合着鼠标使用，体验感不错
 - **闪极 100W Pro 氮化镓 GaN 充电器，黄色**，外出携带，终于摆脱了苹果 96w 的大块头充电器
 - **闪极全透明移动电源**，收到的礼物，很酷炫，不过据说很容易有划痕，当艺术品摆着了
-- **制糖磁吸无线充电座**，和谜底时钟的联名款，用来无线充电和当支架体验不错，但是感觉充 AirPods Pro 有点发热
+- **制糖磁吸无线充电座**，和谜底时钟的联名款，用来无线充电和当支架体验不错，但是感觉充 AirPods Pro 有点发热，最近也比较少用了
 - **制糖 120w 小电拼**，贴在家里书桌凳子下面，多口确实很方便，不过感觉电流声有点重
 - **制糖 35w DIY 充电头**，收到的礼物，上面画了一只章鱼
 
@@ -40,7 +41,7 @@
 
 - **Apple iPhone 13 蓝色，256GB**，主力手机，配合苹果全家桶体验很好，不过手机基本上戒了，主要就用作沟通和看看资讯，应该很久都不会换了
 - **OnePlus 7 Pro，6.67"，Snapdragon 855，256GB**，之前在香港的时候刷机 Root 了，配合 Google 全家桶很适合留学用，而且拍照风格很自然，不过现在也很少用了
-- **Apple iPad Air (第三代)，256GB**，主要用来作拓展屏或者放视频了，很少作什么生产力工具使用，大部分电脑能做的都不会放到 iPad 上做
+- ~~**Apple iPad Air (第三代)，256GB**，主要用来作拓展屏或者放视频了，很少作什么生产力工具使用，大部分电脑能做的都不会放到 iPad 上做~~，给我妹妹用了
 
 ### :movie_camera: 相机及配件
 
@@ -50,10 +51,12 @@
 - **Sony ZV-1 II Vlog 相机**，更多为了记录生活买的，确实带出去心智负担小很多，调了和 A7M3 一样的图像配置来保证画面一致
 - **罗德 Wireless Go 无线麦克风**，之前录视频用得比较多，便携易用，声音也很不错，后面会考虑多录一些视频
 - **DJI RS 3**，相机稳定器，之前用过如影 S，但是体验一般，终于第三代了，打算开始拍一些视频
+- **Shure MV7**，桌面麦克风，打算用来录制一些自媒体视频和课程等
 
 ### :headphones: 音箱及耳机
 
-- **Apple Airpods Pro 降噪耳机**，原本不太习惯入耳式，后来体验了降噪后就离不开了
+- **Apple Airpods 耳机**，很老的版本了，不过戴着确实会更无感一些
+- ~~**Apple Airpods Pro 降噪耳机**，原本不太习惯入耳式，后来体验了降噪后就离不开了~~，给家人用了
 - **Apple HomePod mini 音箱**，家里电脑主要输出设备，家里 Mac Studio 和显示器自带音质都不太行
 - **Divoom Ditoo 像素复古音箱**，收到的礼物，现在放在桌面作装饰，基本上没放过音乐
 - **小爱智能音箱**，联动家里的各类智能家居
@@ -70,6 +73,7 @@
 - **Steam Deck 512G**，收到的礼物，填补了我没有 Win 主机来玩游戏的设备空缺，不过其实一直没什么空玩，现在 OLED 版本都出了
 - **Nintendo Switch Pro 手柄，任天堂明星大乱斗特别版**，体验感比自带的 Joy-Con 好多了
 - **Pokemon Go Plus**，记录自己睡眠，原本也有手机 app，但是得一直开着很耗电所以买来单独记录了
+- **Apple TV, 4K 港版**，家里目前使用的电视盒子，主要配合 Infuse 来用，以及直接看 HBO Max
 
 ## 软件工具
 
@@ -82,17 +86,17 @@
 - **One Switch**，菜单栏快捷工具，主要用来组织电脑休眠使用的
 - **Alfred 4**，快捷启动工具，配合一些 Workflow 功能很丰富，现在主要还用了它的剪贴板历史功能
 - **Raycast**，另一款强大的快捷启动工具，主要提供了一些多应用拓展支持，与 Alfred 4 配合使用
-- **Hammperspoon**，主要用来通过 `Option + hjkl` 组合键来弥补 HHKB 没有上下左右键的一些场景
+- **Hammperspoon**，~~主要用来通过 `Option + hjkl` 组合键来弥补 HHKB 没有上下左右键的一些场景~~，现在基本上也不怎么用了，也有了一些其他更方便的映射方案了
 - **Bartender 4**，菜单栏管理工具，主要隐藏一些软件服务菜单栏图标
 - **BetterTouchTool**，触控板及 Touchbar 管理，主要给 Macbook Pro 配置触控版用的
-- **yabai + skhd**，开源的 Mac 窗口管理工具，通过多桌面+自动分屏+配置 vim-like 的快捷键来进行手动管理，体验感很好，弃用了 Magnet 和 BetterTouchTool 附带的窗口吸附功能
+- **yabai + skhd**，开源的 Mac 窗口管理工具，通过多桌面+自动分屏+配置 vim-like 的快捷键来进行手动管理，体验感很好，~~弃用了 Magnet 和 BetterTouchTool 附带的窗口吸附功能~~，后来有点不兼容新版本，又改回了 BetterTouchTool
 - ~~**Magnet**，分屏工具，已弃用~~
 - ~~**AltTab**，和 Windows 体验一致的多窗口切换工具，可以选择同个应用的多个不同项目~~，后来类似的需求用 Manico 替代了
 - **iStat Menus**，系统状态显示，主要显示 CPU、内存和网络等状态
 - **AirBuddy**，耳机管理工具，感觉连接耳机更顺滑了一些
-- **HazeOver**，桌面效果工具，显示效果很不错
+- **HazeOver**，桌面效果工具，显示效果很不错，但是后面配合 stage manager 之后会有些干扰，也不用了
 - **Plash**，动态桌面拓展，在主屏幕放了一个简约的动态时间显示，也几乎不耗资源
-- **Activate**，一个模拟未激活 Windows 系统的的工具
+- **Activate**，~~一个模拟未激活 Windows 系统的的工具~~，尝鲜了一下后不怎么用了
 - **DaisyDisk**，磁盘管理，偶尔用来追踪大文件
 - **Menubar X**，菜单栏网页拓展，之前偶尔挂一些小工具，现在用得也少了
 - **Logi Options+**，罗技配置工具，配置鼠标功能按键用的，不过基本上用的默认值
@@ -104,12 +108,14 @@
 - **Dockface**，一个在 Dock 栏显示系统状态的小拓展工具，Surge 的作者做的，体验了一下还挺有意思
 - ~~**Maccy**，一个开源的剪贴板工具，很简约，不过感觉我还是更适应 Alfred 的操作逻辑，还在适应看看~~，目前还是回归了 Alfred
 - **RunCat**，一个在菜单栏跑动的小猫，显示系统运行状态的，挺有意思的一个小组件
-- **Manico**，快捷键设置应用启动，听说了好多年最近才真正用上
+- **Manico**，~~快捷键设置应用启动，听说了好多年最近才真正用上~~，用 Raycast 内置的快捷键配置功能实现了
 - **Rewind**，一个记录和检索电脑行为的 AI 应用，感觉兼具了检索和 Time Machine 这样的文件备份功能，还有会议自动总结，每日行为这样的功能，体验了一阵子很有意思，不过其实还没有过多真正有生产力的用途，更多是尝鲜
 - **Command X**，一个为 macos 提供文件剪切功能的拓展
 - **Hyperduck**，用 ios 端发送应用到 macOS，替代隔空传送
 - **HEIC Converter**，把 iPhone 拍出来的图片转成比较通用的 png/jpg 格式
 - **Top Notch**，终于还是受不了 MBP 的刘海了，用这个工具把刘海隐藏了
+- **Applite**，用于管理 homebrew casks 安装的软件，可以自动更新和卸载
+- **IconChamp**，一个 App 图标管理软件，不怎么更新了，也有 bug，但是貌似是唯一可用的应用
 
 ### 📁 文件管理
 
@@ -205,10 +211,13 @@
 - **Amazing AI**，通过 Apple M 芯片绘图的应用，用的 Stable Diffusion，很有意思
 - **Aiko**，音频转译工具
 - **Whisper Transciption**，同样是音频转文字，但是支持很多生成格式，也有对 Podcast 的处理
+- **ChatGPT**，用上了官方客户端，配合 Plus 体验良好
+- **Haye.ai**，朋友「[STRRL](https://x.com/strrlthedev)」开发的 AI 助手工具，经常用来翻译和优化语言
 
 ### 📝 记录工具
 
 - **Logseq**，现在主力的生活记录、任务管理和笔记工具，基于双向链接打造了自己的信息管理系统，而且通过 Journal 以文本条目的形式记录没有心智负担，建议可以看一下 [Randy](https://lutaonan.com) 的 <[我如何使用 Logseq 管理我的生活和笔记](https://www.bilibili.com/video/BV1X44y1K7X1)>，很有启发；还增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中，方便查看
+- **Obsidian**，因为更好的插件生态和 markdown 编辑体验，最近在迁移，主要参照「[How I use Obsidian](https://macwright.com/2024/06/16/how-i-use-obsidian)」这篇进行配置
 - **Notion**，原本作笔记和任务管理，后来都迁移到了 Logseq，所以就只作为软件订阅管理、游戏记录的一些工具，数据库还是很强大的
 - **Hook**，文件资源双向链接工具，目前主要用来追踪本地的一些视频之类的大文件，可以以链接的形式嵌入到 Logseq 里
 - **Office 365**，主要文档/PPT/表格处理工具，其实工作后已经主要都是 Markdown 写为主了，但是最后还是得通过 Word 来排版
@@ -220,18 +229,24 @@
 - ~~**XMind8 Pro**，主要思维导图工具，之前在学校的时候做笔记用的比较多，工作后反而系统性学习整理得少了，需要保持习惯~~，偶尔使用还是用 logseq 插件或者是 Heptabase 内置的
 - **Pinboard**，老牌的书签管理工具，结合 n8n 自动化记录到我的 [Telegram 频道里](https://t.me/pseudoyulife)，方便查看
 - ~~**Craft**，趁黑五五折订阅了 Pro 会员，其实笔记倒是不需要，已经完全在 Logseq 了，没有迁移的打算，这个主要想用来替代腾讯文档这些的，又不想用飞书，一直想体验下~~，还是有点用不习惯，可能没有太多在线协作的需求
-- **Heptabase**，最近开始尝试的一个白板笔记应用，很惊喜
+- **Heptabase**，最近开始尝试的一个白板笔记应用，~~很惊喜~~，其实用了快一年了，还是觉得太重，不打算续订了
 
 ### 👨🏻‍💻 开发工具
 
 - 编辑器
   - **JetBrains GoLand**，主力工作 Go 开发 IDE，很强大，目前用 Edu 身份订阅着全家桶，希望后面能通过开源项目续着
-    - **IntelliJ New UI**，尝试一下预览版的 UI，舒服多了
-    - ~~**Material Theme UI + Atom Material Icons**，很美观的主题~~
+    - ~~**IntelliJ New UI**，尝试一下预览版的 UI，舒服多了~~
+    - **Material Theme UI + Atom Material Icons**，很美观的主题
     - **GitHub Copilot**，代码 AI 补全，很智能
     - **GitToolBox**，提示一些 Git 状态信息
     - **IdeaVim**，配置 Vim 键位
-    - **PlantUML Integration**，用来画 UML 图，目前感觉写和预览体验最好的平台了
+    - ~~**PlantUML Integration**，用来画 UML 图，目前感觉写和预览体验最好的平台了~~
+    - **WakaTime**，用来记录编码项目、语言和所用时间
+  - **JetBrains RustRover**，开始写 Rust 用的，确实比 VS Code 配置起来要方便和强大多了
+    - **Material Theme UI + Atom Material Icons**，很美观的主题
+    - **GitHub Copilot**，代码 AI 补全，很智能
+    - **GitToolBox**，提示一些 Git 状态信息
+    - **IdeaVim**，配置 Vim 键位
     - **WakaTime**，用来记录编码项目、语言和所用时间
   - **VS Code**，代码编辑工具，辅助开发
     - **Serendipity**，新尝试的一个很喜欢的主题
@@ -256,13 +271,14 @@
   - ~~**Atom**，完全转向 VS Code，所以也不用了，体验差太多了~~
   - ~~**JetBrains PyCharm Professional Edition**，Python 编辑器，现在不怎么永乐~~
   - **Xcode**，macOS 及 iOS 开发 IDE
+    - **CopilotForXcode**，GitHub Copilot 的 Xcode 插件
   - **Codux**，一个 React IDE，写前端的时候试试
   - ~~**Fleet**，申请了快一年的内测，等到了公测，但目前连插件市场都没有（体验了一下有点失望）~~
 - 终端
-  - **iTerm2**，之前一直用，现在主要用来切多个服务器，作为主力终端了
-  - **Warp**，~~新尝试的 Rust 编写的终端，体验感很棒~~，果然还是更喜欢自己折腾的方案
+  - **iTerm2**，之前一直用，现在主要用来切多个服务器，~~作为主力终端了~~
+  - **Warp**，新尝试的 Rust 编写的终端，体验感很棒，~~果然还是更喜欢自己折腾的方案~~，因为成熟的体验和新增了很多 AI 功能又换回来了
   - **NeoVim**，~~配置了 GitHub Copilot 等，尝试转移自己的开发流程到 Vim~~，转移失败，下次再试试
-  - **Alacritty**，一个简洁可定制的终端工具
+  - **Alacritty**，一个简洁可定制的终端工具，不怎么用了，有点重复
   - **X-CMD**，朋友 [niracler](https://t.me/niracler_channel) 在做的一个工具，最近重装电脑后打算尝试用这个来搭建自己的整套命令行环境
 - 服务器管理
   - **ssh**，配合 Warp 和 iTerm2 的 Profile 来连接服务器用
@@ -275,13 +291,14 @@
   - **JetBrains DataGrip**，主要通过 Groovy 脚本来自动导出数据库的 Markdown 文件，很方便写文档
   - **Arctype**，最近新发现的一个的一个很好看的数据库管理工具，支持 MySQL 和 PostgreSQL，主要的特色是可以建立多个 workspaces，比起单纯的分组能更好地管理项目
 - 接口调试
-  - **Paw**，主力接口调试工具，限免的时候注册的，速度很快，多环境以及分支管理很强大
-  - **HTTPie**，是个很有名的命令行工具，我获得了 Mac App 版的测试资格，界面真好看，尝鲜一下，主力估计还是 Paw
+  - **Paw/RapidAPI**，主力接口调试工具，限免的时候注册的，速度很快，多环境以及分支管理很强大，后面改名了
+  - **Bruno**，一个新的有意思的接口调试工具，还是有些功能残缺，但也能够满足基本的需求
+  - ~~**HTTPie**，是个很有名的命令行工具，我获得了 Mac App 版的测试资格，界面真好看，~~尝鲜一下，主力还是 RapidAPI
   - ~~**Postman**，以前用的接口调试工具，但是界面太繁杂了，而且反应有点慢，弃用了~~
 - 文档查看: **Dash**，配合 Alfred 查文档很方便
 - 容器
   - **Orb Stack**，经过了一阵子的使用，用 Orb Stack 代替了下述所有的了，很稳定，界面也很好看
-  - **Colima**，一个容器工具，以命令行的形式来管理容器，方便且占用资源少
+  - **Colima**，~~一个容器工具，以命令行的形式来管理容器，方便且占用资源少~~，完全用 Orb Stack 替代了
   - **Docker Desktop**，~~虽然占资源很高，但是确实方便。原本弃用了，但是由于使用项目使用 docker 的 Buildx 特性还是恢复使用了~~,Orb Stack 替代了
   - **Minikube**，打算考一下 CKAD，搭建本地 k8s 集群环境用的
 - 绘图工具
@@ -293,14 +310,14 @@
     - [git-cz](https://github.com/commitizen/cz-cli)，交互式规范化提交信息
     - [git-chglog](https://github.com/git-chglog/git-chglog)，用来自动生成格式化 CHANGELOG
     - [git-delta](https://github.com/dandavison/delta)，git 语法输出语法高亮工具
+  - **GitHub**，我的个人博客、图床以及开发项目都通过 GitHub 管理，后面工作也转向 GitHub 进行管理
   - **GitKraken**，~~GitHub Education 送的，界面还不错，偶尔看看~~，还是更习惯命令行
   - **Tower**，~~GitHub Education 送的~~，几乎没用过
   - ~~**Fork**，git 客户端工具（已弃用，改为命令行配合 alias）~~
-  - **GitHub**，我的个人博客、图床以及开发项目都通过 GitHub 管理，后面工作也转向 GitHub 进行管理
   - ~~**GitLab**，工作项目通过公司 GitLab 进行管理~~，换工作后不用了
 - 实用工具
   - **DevUtils**，最近项目里频繁用到 json 格式化和时间戳转换，总是搜索在线工具很麻烦，趁着黑五入手了，感觉不错！
-  - **CodeSpeedy**，Randy 开发的一个可以管理和同步代码片段并同步到 VSCode 的工具
+  - **CodeSpeedy**，~~Randy 开发的一个可以管理和同步代码片段并同步到 VSCode 的工具~~，不用了
 
 ### 📹 视频剪辑
 
@@ -344,7 +361,7 @@
   - **Vercel**，配合 Railway 的数据库部署了博客的 Cusdis 评论系统
   - **Railway**，也是一个 PaaS 平台，部署了 Cusdis 的数据库和 umami 全套网站数据统计系统
 - [**豆瓣**](https://www.douban.com/people/pseudo-yu)，通过 GitHub Action 每天抓取豆瓣提供的 RSS，统计我的影音和书籍并更新到 GitHub 主页和个人网站介绍页里，也通过 Chrome 的一个叫“豆伴”的插件来定时备份和导出
-- **Cron**，主要用来管理自己 Google Calendar 上的日程
+- **Notion Calendar/Cron**，主要用来管理自己 Google Calendar 上的日程
 
 ### 💬 通讯社交
 
