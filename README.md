@@ -141,7 +141,7 @@
 - **AdGuard Home**，通过网络流量过滤与 DNS 实现去广告，很强大
 - **ClashX**，网络代理工具，买 Surge 前主力用的，现在留了一个备用线路
 - ~~**Tunnelblick**，openvpn 客户端，连接公司内网服务器使用~~，换工作后不用了
-- ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网，~~还是换成 Tunnelblick 了
+- ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网~~，还是换成 Tunnelblick 了
 - **VNC Viewer**，远程桌面工具，用来连接树莓派显示桌面
 - **Arc**，最近刚更换为 Arc，使用体验很好，Chrome 迁移没什么成本
   - **AdGuard**，去广告插件
