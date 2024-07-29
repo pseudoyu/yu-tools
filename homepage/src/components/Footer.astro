@@ -1,0 +1,10 @@
+---
+import { HOMEPAGE_URL } from '../config'
+
+const today = new Date()
+---
+
+<footer class="text-zinc-500 p-4 text-center">
+  &copy; {today.getFullYear()}
+  <a href={HOMEPAGE_URL}>pseudoyu</a>. All rights reserved.
+</footer>

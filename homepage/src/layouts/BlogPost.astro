@@ -1,0 +1,88 @@
+---
+import BaseHead from '../components/BaseHead.astro'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import Body from '../components/Body.astro'
+import Content from '../components/Content.astro'
+import { SITE_TITLE } from '../config'
+
+export interface Props {
+  content: {
+    title: string
+    description: string
+    createdAt?: string
+    updatedAt?: string
+    heroImage?: string
+    tags: string[]
+  }
+}
+
+const {
+  content: { title, description, heroImage }
+} = Astro.props
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title={title + ` / ${SITE_TITLE}`} description={description} image={heroImage} />
+  </head>
+
+  <Body>
+    <Header />
+    <style global>
+    main article.markdown-body {
+      ul {
+        @apply list-disc list-inside pl-4 mb-4
+      }
+      h1, h2, h3, h4, h5 {
+        @apply font-bold font-mplus
+      }
+      h1 {
+        @apply text-4xl
+      }
+      h2 {
+        @apply text-2xl
+      }
+      h3 {
+        @apply text-xl
+      }
+      h4 {
+        @apply text-lg
+      }
+      img {
+        @apply border border-slate-300 dark:border-zinc-700 rounded-xl mb-6
+      }
+      p {
+        @apply mb-6
+      }
+      a {
+        @apply underline underline-offset-2 hover:text-orange-500 decoration-orange-500
+      }
+    }
+    </style>
+
+    <main class="pt-[56px]">
+      <Content className="pt-6 markdown-body">
+        <div class="mb-8">
+          {
+            heroImage && (
+              <img
+                class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+                width={720}
+                height={360}
+                src={heroImage}
+                alt=""
+              />
+            )
+          }
+        </div>
+        <h1 class="text-3xl my-1 font-mplus">{title}</h1>
+        <div>{description}</div>
+        <hr class="border-top border-zinc-400 my-4" />
+        <slot />
+      </Content>
+    </main>
+    <Footer />
+  </Body>
+</html>

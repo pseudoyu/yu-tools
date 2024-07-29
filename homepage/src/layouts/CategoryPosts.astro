@@ -1,0 +1,65 @@
+---
+import { Image } from 'astro:assets';
+import BaseHead from '../components/BaseHead.astro'
+import Body from '../components/Body.astro'
+import Breadcrumb from '../components/Breadcrumb.astro'
+import Content from '../components/Content.astro'
+import Footer from '../components/Footer.astro'
+import Header from '../components/Header.astro'
+import Masthead from '../components/Masthead.astro'
+import { SITE_DESCRIPTION, SITE_TITLE } from '../config'
+
+export interface Props {
+  category: string
+}
+
+const { category } = Astro.props
+
+const posts = (await Astro.glob('../pages/posts/*.md'))
+  .sort(
+    (a, b) =>
+      new Date(b.frontmatter.createdAt).valueOf() -
+      new Date(a.frontmatter.createdAt).valueOf()
+  )
+  .filter(item => item.frontmatter.tags.includes(category))
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title={category + ` / ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+  </head>
+  <Body>
+    <Header title={SITE_TITLE} />
+    <main class="pt-[56px]">
+      <Masthead />
+      <Content>
+        <Breadcrumb>{category}</Breadcrumb>
+        <section>
+          <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {
+              posts.map(post => (
+                <li class="text-center mb-4">
+                  <a href={post.url}>
+                    <Image
+                      class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+                      src={post.frontmatter.heroImage as string}
+                      width={720 * 2}
+                      height={720}
+                      alt="Thumbnail"
+                    />
+                    <div class="mt-3 text-xl font-bold">
+                      {post.frontmatter.title}
+                    </div>
+                    <div>{post.frontmatter.description}</div>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </section>
+      </Content>
+    </main>
+    <Footer />
+  </Body>
+</html>

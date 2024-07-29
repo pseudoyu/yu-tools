@@ -1,0 +1,80 @@
+---
+import type { ImageMetadata } from 'astro';
+import BaseHead from '../components/BaseHead.astro'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import { SITE_TITLE, SITE_DESCRIPTION, HOMEPAGE_URL } from '../config'
+import Body from '../components/Body.astro'
+import Content from '../components/Content.astro'
+import { IoArrowForward } from 'react-icons/io5'
+import Masthead from '../components/Masthead.astro'
+import { Image } from 'astro:assets';
+import CreatedWithSection from '../components/CreatedWithSection.astro'
+
+const images = import.meta.glob<{ default: ImageMetadata }>('/src/assets/*.{jpeg,jpg,png,gif}');
+console.log('images:', images)
+
+const posts = (await Astro.glob('./posts/*.md')).sort(
+  (a: any, b: any) =>
+    new Date(b.frontmatter.createdAt).valueOf() -
+    new Date(a.frontmatter.createdAt).valueOf()
+)
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <Body>
+    <Header title={SITE_TITLE} />
+    <main class="pt-[56px]">
+      <Masthead />
+      <Content>
+        <section>
+          <p class="mb-8 indent-4">
+            自己一直是个工具控，也一直信奉着“工欲善其事，必先利其器”的理念，总是不断折腾和优化自己的硬件与软件，针对自己的一个特定需求会试图找到最优解，现在也慢慢找到了最适合自己使用习惯的解决方案。因为工作、学习和个人兴趣，设备经过很多次迭代，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。
+            <a
+              class="inline-flex items-center gap-1 indent-1 text-orange-500"
+              href={HOMEPAGE_URL}
+              >Learn more about me <IoArrowForward className="inline" />
+            </a>
+          </p>
+        </section>
+        <section>
+          <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {
+              posts.map(post => {
+                const heroImageAsset = images[post.frontmatter.heroImage]
+                const heroImageSrc =  heroImageAsset ? heroImageAsset() : post.frontmatter.heroImage
+                return (
+                <li class="text-center mb-4">
+                  <a href={post.url}>
+                    <Image
+                      class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+                      src={heroImageSrc}
+                      width={720}
+                      height={720 / 1.777}
+                      alt="Thumbnail"
+                    />
+                    <div class="mt-3 text-xl font-bold">
+                      {post.frontmatter.title}
+                    </div>
+                    {post.frontmatter.description && (
+                      <div class="opacity-70">
+                        {post.frontmatter.description}
+                      </div>
+                    )}
+                  </a>
+                </li>
+              )
+              })
+            }
+          </ul>
+        </section>
+        <CreatedWithSection />
+      </Content>
+    </main>
+    <Footer />
+  </Body>
+</html>

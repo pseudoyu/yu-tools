@@ -1,0 +1,29 @@
+---
+import { Image } from 'astro:assets';
+---
+
+<section>
+  <h2
+    class="font-mplus font-bold text-xl my-4 underline underline-offset-4 decoration-zinc-400 dark:decoration-zinc-700 decoration-4"
+  >
+    Created with
+  </h2>
+  <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    <li class="text-center mb-4">
+      <a href="https://astro.build/">
+        <Image
+          class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+          src="/astrojs.jpg"
+          width={720 * 2}
+          height={720}
+          alt="AstroJS banner"
+        />
+
+        <div class="mt-3 text-xl">Astro</div>
+        <div class="opacity-70">
+          Framework for building fast static websites
+        </div>
+      </a>
+    </li>
+  </ul>
+</section>

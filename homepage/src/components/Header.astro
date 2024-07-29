@@ -1,0 +1,38 @@
+---
+import HeaderLink from './HeaderLink.astro'
+import { HOMEPAGE_URL } from '../config'
+import { IoLogoGithub } from 'react-icons/io5'
+import FootprintIcon from './icons/footprint'
+import ThemeToggle from './ThemeToggleButton'
+import DropdownMenu from './DropdownMenu'
+
+const allPosts = await Astro.glob('../pages/posts/*.md')
+const allTags = new Set<string>()
+allPosts.map(post => {
+  post.frontmatter.tags &&
+    post.frontmatter.tags.map((tag: string) => allTags.add(tag))
+})
+---
+
+<header class="fixed w-full p-2 z-20 backdrop-blur-md">
+  <div class="mx-auto max-w-3xl">
+    <nav class="flex items-center gap-3 text-base">
+      <a href="/" class="group">
+        <h2 class="font-semibold tracking-tighter p-2 font-mplus text-lg">
+          <FootprintIcon />
+          pseudoyu
+        </h2>
+      </a>
+      <div class="items-center gap-6 hidden md:flex">
+        <HeaderLink href={HOMEPAGE_URL}>About</HeaderLink>
+        <HeaderLink
+          href="https://github.com/pseudoyu/yu-tools"
+          target="_blank"><IoLogoGithub />Source</HeaderLink
+        >
+      </div>
+      <div class="flex-1"></div>
+      <ThemeToggle client:visible />
+      <DropdownMenu client:visible tags={Array.from(allTags)} />
+    </nav>
+  </div>
+</header>
