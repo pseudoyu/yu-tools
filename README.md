@@ -2,7 +2,7 @@
 
 ## 前言
 
-***TODO: Developing an Astro website for this yu-tools project.***
+***Note: Developing an Astro website for this yu-tools project —— 「[tools.pseudoyu.com](https://tools.pseudoyu.com/)」.***
 
 自己一直是个工具控，也一直信奉着“工欲善其事，必先利其器”的理念，总是不断折腾和优化自己的硬件与软件，针对自己的一个特定需求会试图找到最优解，现在也慢慢找到了最适合自己使用习惯的解决方案。因为工作、学习和个人兴趣，设备经过很多次迭代，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。
 
