@@ -553,7 +553,7 @@
         <a href="https://github.com/pseudoyu">
             <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="100;" alt="pseudoyu"/>
             <br />
-            <sub><b>pseudoyu</b></sub>
+            <sub><b>Pseudoyu</b></sub>
         </a>
     </td>
     <td align="center">
