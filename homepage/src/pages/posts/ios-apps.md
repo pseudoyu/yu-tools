@@ -12,8 +12,6 @@ tags:
 heroImage: /posts/ios-apps.jpeg
 ---
 
-![yu_ios_apps](https://image.pseudoyu.com/images/yu_ios_apps.png)
-
 ### 🛠 系统拓展
 
 - **熊猫吃短信**，过滤垃圾短信，很好用
