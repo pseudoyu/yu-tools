@@ -28,7 +28,6 @@ heroImage: /posts/devices.jpg
 - ~~**Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦~~，更新了 M 芯片后闲置了，但配置高也不舍得卖掉
 - ~~**Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，之前 SSH 连接作为一个开发机使用~~，配置有点老了，基本上放着当装饰了
 - ~~**Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感~~，后来还是更多用笔记本，再加上近期要搬家就卖了
-- ~~**Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感~~，后来还是更多用笔记本，再加上近期要搬家就卖了
 - ~~**Google Pixelbook Go 黑色，Intel Core i7，16GB RAM, 256GB Storage**，最近打算把自己业余学习项目以及 Crypto 相关的转到瘦客户端开发的模式，闲鱼淘了一个，真不错，配置了基本开发环境，刷了 Arch Linux~~后面也还是很少用到，断舍离卖掉了
 - ~~**戴尔 U2720Q 4K 显示器**，又新增了一个显示器，屏幕素质和色彩比明基好，感觉 27 寸也比较足够了，现在主要配合 Mac Studio 使用~~，卖掉了，现在只用一个几硕的
 - ~~**Leopold FC660C 45g 静音版，灰白**，终于集齐了静电容三大经典，有线的所以长期连家里的 Mac Studio~~，其实还是挺喜欢的，但已经有很多键盘了就也出了，居然用了好几年价格只跌了 50

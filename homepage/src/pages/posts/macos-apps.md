@@ -16,8 +16,8 @@ heroImage: /posts/macos-apps.png
 
 - **CleanMyMac X**，电脑管家，主要用来清理缓存和软件卸载
 - **One Switch**，菜单栏快捷工具，主要用来组织电脑休眠使用的
-- **Alfred 4**，快捷启动工具，配合一些 Workflow 功能很丰富，现在主要还用了它的剪贴板历史功能
-- **Raycast**，另一款强大的快捷启动工具，主要提供了一些多应用拓展支持，与 Alfred 4 配合使用
+- **Alfred 5**，快捷启动工具，配合一些 Workflow 功能很丰富，现在主要还用了它的剪贴板历史功能
+- **Raycast**，另一款强大的快捷启动工具，主要提供了一些多应用拓展支持，与 Alfred 5 配合使用
 - **Bartender 4**，菜单栏管理工具，主要隐藏一些软件服务菜单栏图标
 - **BetterTouchTool**，触控板及 Touchbar 管理，主要给 Macbook Pro 配置触控版用的
 - **Moom**，分屏工具，可以自己画格子，但是吸附功能没有很好兼容 Mac 的 Stage Manager，所以还是配合着 BetterTouchTool 使用
