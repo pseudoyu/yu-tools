@@ -617,6 +617,13 @@
             <br />
             <sub><b>Ycluislabs</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yanboishere">
+            <img src="https://avatars.githubusercontent.com/u/76860915?v=4" width="100;" alt="yanboishere"/>
+            <br />
+            <sub><b>Yanbo Wang</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
