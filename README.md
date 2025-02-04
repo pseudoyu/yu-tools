@@ -492,8 +492,8 @@
 - **imToken**，iOS 数字钱包
 - **TokenPocket**，iOS 数字钱包
 - **币安**，Binance 交易所 iOS 客户端
-- **欧易**，OKEX 交易所 iOS 客户端
-- **火币**，Huobi 交易所 iOS 客户端
+- **欧易**，OKX 交易所 iOS 客户端
+- **火币HTX**，Huobi 交易所 iOS 客户端
 
 ### 🏚 家庭管理
 
