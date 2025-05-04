@@ -1,4 +1,4 @@
-# 个人工具箱（2025 年 1 月 25 日更新）
+# 个人工具箱（2025 年 5 月 4 日更新）
 
 ## 前言
 
@@ -15,17 +15,20 @@
 ### :computer: 电脑及配件
 
 - **Apple MacBook Pro (14-inch, 2023) 银色，M2 Max，64GB RAM，1T SSD**，因为出门比较多，还是用公司的设备津贴添置了 14 寸，确实比 16 带出去负担小多了
+- **NAS (openmediavault OS)**，NAS，8T RAID5，存储了我大部分重要数据，但是有点吵，暂时停机了
+- **懒猫微服**，8T RAID0，主要用作跑一些自用服务和文件备份，也跑了些应用
 - **几硕 FlipGo 16 寸，Pro 版本**，当作 Obsidian 记笔记、终端以及 ChatGPT 专用屏使用
 - **明基（BenQ）EW3270U 4K 显示器**，，在这个价位的 4K 里已经很不错了，现在连着之前 Intel 的 16 寸 MBP 用
 - **HHKB Professional Hybrid Type-S 双模静音版键盘，白色有刻**，有点重，但是外出算是不错的选择，自己添置了一个键盘亚克力垫
 - **Xikii Industry 瀚文 75 客制化键盘，高能制造局限定款**，和 B 站联名的小粉键盘，现在放在家里的 MBP 上用
-- **NuPhy Air60 无线键盘**，厂家寄过来的，手感一般但是颜值很高，不过后面还是主要用 HHKB，不过确实真的很轻便，还刚好能卡在 MBP 上
-- **Apple Magic Keyboard 键盘，白色**，开始用 HHKB 后闲置了
+- **NuPhy Kick75 键盘**，矮轴。超红轴，颜色很清新舒服，有回到小时候玩任天堂掌机的感觉
+- **NuPhy Air60 键盘**，厂家寄过来的，手感一般但是颜值很高，不过后面还是主要用 HHKB，不过确实真的很轻便，还刚好能卡在 MBP 上
 - **Logitech MX Master 3 鼠标，灰色**，主力鼠标，手感和侧键功能都很棒，配合剪视频也很棒
-- **Apple Magic Mouse 2 鼠标，白色**，手感不太行，闲置了
-- **闪极 100W Pro 氮化镓 GaN 充电器，黄色**，外出携带，终于摆脱了苹果 96w 的大块头充电器
+- **Logitech 闪极 100W Pro 氮化镓 GaN 充电器，黄色**，外出携带，终于摆脱了苹果 96w 的大块头充电器
 - **闪极全透明移动电源**，收到的礼物，很酷炫，很艺术品，每次带出去都会被问
 - **制糖 35w DIY 充电头**，收到的礼物，上面画了一只章鱼
+- ~~**Apple Magic Keyboard 键盘，白色**~~，键盘太多，闲置了
+- ~~**Apple Magic Mouse 2 鼠标，白色**~~，手感不太行，闲置了
 - ~~**Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i9，32GB RAM，2T SSD**，高频使用，基本走哪都会背着，在公司外接显示屏使用，原本高频使用，后来因为 Intel 的续航和散热各种实在有点痛苦~~，更新了 M 芯片后闲置了，但配置高也不舍得卖掉
 - ~~**Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，之前 SSH 连接作为一个开发机使用~~，配置有点老了，基本上放着当装饰了
 - ~~**Apple Mac Studio (2022)，M1 Max，64GB RAM，1T SSD**，家里主力电脑，疫情在家很提升工作学习幸福感~~，后来还是更多用笔记本，再加上近期要搬家就卖了
@@ -41,29 +44,32 @@
 
 ### :iphone: 手机及平板
 
-- **Apple iPhone 13 蓝色，256GB**，主力手机，配合苹果全家桶体验很好，不过手机基本上戒了，主要就用作沟通和看看资讯，应该很久都不会换了
 - **OnePlus 7 Pro，6.67"，Snapdragon 855，256GB**，之前在香港的时候刷机 Root 了，配合 Google 全家桶很适合留学用，而且拍照风格很自然，不过现在也很少用了
+- **iPhone SE (第三代)，64GB**，主力备用机，调试一些 iOS 应用和专属的一些银行 App 之类的
 - **Apple iPad Mini (第六代)，64GB**，用来刷刷视频和看电子书，其实这个重量和体积使用频率反而很高
+- ~~**Apple iPhone 13 蓝色，256GB**，主力手机，配合苹果全家桶体验很好，不过手机基本上戒了，主要就用作沟通和看看资讯，应该很久都不会换了~~，电池不行了，基本开不了机了
 - ~~**Apple iPad Air (第三代)，256GB**，主要用来作拓展屏或者放视频了，很少作什么生产力工具使用，大部分电脑能做的都不会放到 iPad 上做~~，给我妹妹用了
 
 ### :movie_camera: 相机及配件
 
 - **Fujifilm X100VI**，最近刚从香港买到，胶片模拟太赞了，每次按下快门都是享受
 - **Sony A7M3 微单相机，黑色**，大学攒了好久才买的第一台微单，摄影和视频都很全能，跟着我好多年了，到现在依然很够用
+- **Sony ZV-1 II Vlog 相机**，更多为了记录生活买的，确实带出去心智负担小很多，调了和 A7M3 一样的图像配置来保证画面一致
 - **Sony 24-105mm F4 相机镜头**，跟相机一起买的，出门基本上这一只大师镜头就足够应对绝大多数场景，虽然光圈只有 F4，但是成像品质真的高
 - **Sony 55mm F1.8 蔡司相机镜头**，收到的礼物，也是最喜欢的定焦镜头，主要用来拍人像
-- **Sony ZV-1 II Vlog 相机**，更多为了记录生活买的，确实带出去心智负担小很多，调了和 A7M3 一样的图像配置来保证画面一致
+- **Shure MV7**，桌面麦克风，打算用来录制一些自媒体视频和课程等
 - **罗德 Wireless Go 无线麦克风**，之前录视频用得比较多，便携易用，声音也很不错，后面会考虑多录一些视频
 - **DJI RS 3**，相机稳定器，之前用过如影 S，但是体验一般，终于第三代了，打算开始拍一些视频
-- **Shure MV7**，桌面麦克风，打算用来录制一些自媒体视频和课程等
 
 ### :headphones: 音箱及耳机
 
-- **Apple Airpods 耳机**，很老的版本了，不过戴着确实会更无感一些
-- **Apple Airpods Pro 降噪耳机**，原本不太习惯入耳式，后来体验了降噪后就离不开了
+- **Bose QuietComfort 35 降噪耳机**，学姐用了好多年了，发现到现在还是很经典耐用，就是夏天有点热
+- **Apple Airpods 耳机**，很老的版本了，不过戴着确实会更无感一些，但是续航不太行了
+- **华为 FreeBuds 4i 耳机**，换成安卓机之后也偶尔用耳机
 - **Apple HomePod mini 音箱**，家里电脑主要输出设备，家里 Mac Studio 和显示器自带音质都不太行
 - **Divoom Ditoo 像素复古音箱**，收到的礼物，现在放在桌面作装饰，基本上没放过音乐
 - **小爱智能音箱**，联动家里的各类智能家居
+- ~~**Apple Airpods Pro 降噪耳机**，原本不太习惯入耳式，后来体验了降噪后就离不开了~~，不小心丢了，只剩 Air 了
 
 ### :package: 存储设备
 
@@ -72,13 +78,13 @@
 
 ### 🎮 休闲娱乐
 
-- **Kindle Oasis 2 电子书阅读器**，以前看得比较多，现在基本上看实体书以及手机 Books 上看
+- **Apple TV, 4K 港版**，家里目前使用的电视盒子，看 HBO Max 或者 iPad 投屏过去
 - **Nintendo Switch 主机，动物森友会特别版**，主要用来玩宝可梦，[从 18 年开始陆陆续续也买了不少游戏](https://pseudoyu.notion.site/f5f9e6e31b4744a7a1284eaf55451462?v=6e3be0ced2f44305b9ff3a8298e72de5)，很多都还没来得及玩，卡带收藏爱好者
 - **Steam Deck 512G**，收到的礼物，填补了我没有 Win 主机来玩游戏的设备空缺，不过其实一直没什么空玩，现在 OLED 版本都出了
 - **Nintendo Switch Pro 手柄，任天堂明星大乱斗特别版**，体验感比自带的 Joy-Con 好多了
 - **Pokemon Go Plus**，记录自己睡眠，原本也有手机 app，但是得一直开着很耗电所以买来单独记录了
-- **Apple TV, 4K 港版**，家里目前使用的电视盒子，主要配合 Infuse 来用，以及直接看 HBO Max
-- **JMGO O1S 投影仪**，短焦，直接贴墙连接 Apple TV 用，省了电视的空间
+- ~~**JMGO O1S 投影仪**，短焦，直接贴墙连接 Apple TV 用，省了电视的空间~~，闲置卖掉了
+- ~~**Kindle Oasis 2 电子书阅读器**，以前看得比较多，现在基本上看实体书以及手机 Books 上看~~，现在还是用微信读书比较多
 
 ## macOS 软件
 
@@ -86,121 +92,112 @@
 
 ### 🛠 系统拓展
 
-- **CleanMyMac X**，电脑管家，主要用来清理缓存和软件卸载
-- **One Switch**，菜单栏快捷工具，主要用来组织电脑休眠使用的
-- **Alfred 5**，快捷启动工具，配合一些 Workflow 功能很丰富，现在主要还用了它的剪贴板历史功能
-- **Raycast**，另一款强大的快捷启动工具，主要提供了一些多应用拓展支持，与 Alfred 5 配合使用
-- **Bartender 4**，菜单栏管理工具，主要隐藏一些软件服务菜单栏图标
-- **BetterTouchTool**，触控板及 Touchbar 管理，主要给 Macbook Pro 配置触控版用的
-- **Moom**，分屏工具，可以自己画格子，但是吸附功能没有很好兼容 Mac 的 Stage Manager，所以还是配合着 BetterTouchTool 使用
-- **AirBuddy**，耳机管理工具，感觉连接耳机更顺滑了一些
-- **Plash**，动态桌面拓展，在主屏幕放了一个简约的动态时间显示，也几乎不耗资源
-- **DaisyDisk**，磁盘管理，偶尔用来追踪大文件
-- **OmniDiskSweeper**，磁盘管理，可以快速查看磁盘使用情况
-- **Logi Options+**，罗技配置工具，配置鼠标功能按键用的，不过基本上用的默认值
-- **MonitorControl**，开源的显示屏亮度管理工具，因为家里 Mac Studio 是用的外接显示器，不能直接键盘或者设置调节，这个完美解决
-- **KeyCastr**，一个开源的键盘按键显示工具，比如按下对应的键会显示，用于录制一些教程
-- **Hyperduck**，用 ios 端发送应用到 macOS，替代隔空传送
-- **NotchNock**，终于还是受不了 MBP 的刘海了，用这个工具把刘海隐藏了，还多了一些比如文件暂存，音频播放的效果
-- **IconChamp**，一个 App 图标管理软件，不怎么更新了，也有 bug，但是貌似是唯一可用的应用
-- **SuperCharge**，Mac 的系统增强工具，解决了很多比如 Command + X 剪贴或是关闭应用之类的小需求
-- **Cursor Pro**，鼠标美化的一个工具，很好看适合录制教程
-- **Velji**，可以指定不同链接的默认浏览器打开方式，适合配置 Zoom、Notion 之类的链接不用再在浏览器里中转一下
-- **DisplayLink Manager**，几硕 FlipGo 用到的驱动，方便多个显示器管理
-- **Rime 鼠须管**，定制化输入法，体验很好且数据本地保存，安全稳定
-- **Time Machine**，备份工具，主要给 Mac Studio 作实时备份用
-- **Homebrew**，Homebrew 安装工具，基本上开发有关的都用 brew 装了，方便管理升级
-- **Applite**，用于管理 homebrew casks 安装的软件，可以自动更新和卸载
-- ~~**AppCleaner**，功能很单一的应用卸载工具，现在回归一个电脑后还是用了买断的 CleanMyMac X 为主~~
-- ~~**Hammperspoon**，主要用来通过 `Option + hjkl` 组合键来弥补 HHKB 没有上下左右键的一些场景~~，现在基本上也不怎么用了，也有了一些其他更方便的映射方案了
-- ~~**Magnet**，分屏工具，已弃用~~
-- ~~**AltTab**，和 Windows 体验一致的多窗口切换工具，可以选择同个应用的多个不同项目~~，后来类似的需求用 Raycast 替代了
-- ~~**yabai + skhd**，开源的 Mac 窗口管理工具，通过多桌面+自动分屏+配置 vim-like 的快捷键来进行手动管理，体验感很好~~,不过后来系统有些不兼容就我折腾了，用了现成的 BetterTouchTool + Moom 方案
-- ~~**iStat Menus**，系统状态显示，主要显示 CPU、内存和网络等状态，有了刘海后也不怎么用了，太占位置了~~
-- ~~**Maccy**，一个开源的剪贴板工具，很简约，不过感觉我还是更适应 Alfred 的操作逻辑，还在适应看看~~，目前还是回归了 Alfred
-- ~~**Dockface**，一个在 Dock 栏显示系统状态的小拓展工具，Surge 的作者做的，体验了一下还挺有意思~~，不过没啥用途
-- ~~**HazeOver**，桌面效果工具，显示效果很不错~~，但是后面配合 stage manager 之后会有些干扰，也不用了
-- ~~**Menubar X**，菜单栏网页拓展~~，之前偶尔挂一些小工具，现在用得也少了
-- ~~**Manico**，快捷键设置应用启动，听说了好多年最近才真正用上~~，用 Raycast 内置的快捷键配置功能实现了
-- ~~**RunCat**，一个在菜单栏跑动的小猫，显示系统运行状态的，挺有意思的一个小组件~~，后面也是因为刘海空间不够就不用了
-- ~~**TinderTool**，一个免费的系统设置拓展工具，提供了很多实用的额外配置，我主要用来去除截图阴影~~，现在好像也没什么额外用途
+- **[CleanMyMac X](https://cleanmymac.macpaw.com)**，电脑管家，主要用来清理缓存和软件卸载
+- **[One Switch](https://fireball.studio/oneswitch)**，菜单栏快捷工具，主要用来组织电脑休眠使用的
+- **[Alfred 5](https://www.alfredapp.com/)**，快捷启动工具，配合一些 Workflow 功能很丰富，现在主要还用了它的剪贴板历史功能
+- **[Raycast](https://www.raycast.com/)**，另一款强大的快捷启动工具，主要提供了一些多应用拓展支持，与 Alfred 5 配合使用
+- **[Bartender 4](https://www.macbartender.com/)**，菜单栏管理工具，主要隐藏一些软件服务菜单栏图标
+- **[BetterTouchTool](https://folivora.ai/)**，触控板及 Touchbar 管理，主要给 Macbook Pro 配置触控版用的
+- **[Moom](https://manytricks.com/moom/)**，分屏工具，可以自己画格子，但是吸附功能没有很好兼容 Mac 的 Stage Manager，所以还是配合着 BetterTouchTool 使用
+- **[AirBuddy](https://v2.airbuddy.app/)**，耳机管理工具，感觉连接耳机更顺滑了一些
+- **[Plash](https://sindresorhus.com/plash)**，动态桌面拓展，在主屏幕放了一个简约的动态时间显示，也几乎不耗资源
+- **[DaisyDisk](https://daisydiskapp.com/)**，磁盘管理，偶尔用来追踪大文件
+- **[OmniDiskSweeper](https://www.omnigroup.com/more)**，磁盘管理，可以快速查看磁盘使用情况
+- **[Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)**，罗技配置工具，配置鼠标功能按键用的，不过基本上用的默认值
+- **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**，开源的显示屏亮度管理工具，因为家里 Mac Studio 是用的外接显示器，不能直接键盘或者设置调节，这个完美解决
+- **[KeyCastr](https://github.com/keycastr/keycastr)**，一个开源的键盘按键显示工具，比如按下对应的键会显示，用于录制一些教程
+- **[Hyperduck](https://sindresorhus.com/hyperduck)**，用 ios 端发送应用到 macOS，替代隔空传送
+- **[NotchNock](https://lo.cafe/notchnook)**，终于还是受不了 MBP 的刘海了，用这个工具把刘海隐藏了，还多了一些比如文件暂存，音频播放的效果
+- **[IconChamp](https://www.macenhance.com/iconchamp.html)**，一个 App 图标管理软件，不怎么更新了，也有 bug，但是貌似是唯一可用的应用
+- **[SuperCharge](https://sindresorhus.com/supercharge)**，Mac 的系统增强工具，解决了很多比如 Command + X 剪贴或是关闭应用之类的小需求
+- **[Cursor Pro](https://appahead.studio/apps/cursor-pro/)**，鼠标美化的一个工具，很好看适合录制教程
+- **[Velji](https://sindresorhus.com/velja)**，可以指定不同链接的默认浏览器打开方式，适合配置 Zoom、Notion 之类的链接不用再在浏览器里中转一下
+- **[DisplayLink Manager](https://www.synaptics.com/products/displaylink-graphics/downloads/macos)**，几硕 FlipGo 用到的驱动，方便多个显示器管理
+- **[Rime 鼠须管](https://rime.im/)**，定制化输入法，体验很好且数据本地保存，安全稳定
+- **[Time Machine](https://support.apple.com/en-us/104984)**，备份工具，主要给 Mac Studio 作实时备份用
+- **[Homebrew](https://brew.sh/)**，Homebrew 安装工具，基本上开发有关的都用 brew 装了，方便管理升级
+- **[Applite](https://aerolite.dev/applite)**，用于管理 homebrew casks 安装的软件，可以自动更新和卸载
+- ~~**[AppCleaner](https://freemacsoft.net/appcleaner/)**，功能很单一的应用卸载工具，现在回归一个电脑后还是用了买断的 CleanMyMac X 为主~~
+- ~~**[Hammperspoon](https://www.hammerspoon.org/)**，主要用来通过 `Option + hjkl` 组合键来弥补 HHKB 没有上下左右键的一些场景~~，现在基本上也不怎么用了，也有了一些其他更方便的映射方案了
+- ~~**[Magnet](https://magnet.crowdcafe.com/)**，分屏工具，已弃用~~
+- ~~**[AltTab](https://alt-tab-macos.netlify.app/)**，和 Windows 体验一致的多窗口切换工具，可以选择同个应用的多个不同项目~~，后来类似的需求用 Raycast 替代了
+- ~~**[yabai](https://github.com/koekeishiya/yabai) + [skhd](https://github.com/koekeishiya/skhd)**，开源的 Mac 窗口管理工具，通过多桌面+自动分屏+配置 vim-like 的快捷键来进行手动管理，体验感很好~~,不过后来系统有些不兼容就我折腾了，用了现成的 BetterTouchTool + Moom 方案
+- ~~**[iStat Menus](https://bjango.com/mac/istatmenus/)**，系统状态显示，主要显示 CPU、内存和网络等状态，有了刘海后也不怎么用了，太占位置了~~
+- ~~**[Maccy](https://maccy.app/)**，一个开源的剪贴板工具，很简约，不过感觉我还是更适应 Alfred 的操作逻辑，还在适应看看~~，目前还是回归了 Alfred
+- ~~**[Dockface](https://apps.apple.com/us/app/dockface/id1557416396)**，一个在 Dock 栏显示系统状态的小拓展工具，Surge 的作者做的，体验了一下还挺有意思~~，不过没啥用途
+- ~~**[HazeOver](https://hazeover.com/)**，桌面效果工具，显示效果很不错~~，但是后面配合 stage manager 之后会有些干扰，也不用了
+- ~~**[Menubar X](https://menubarx.app/)**，菜单栏网页拓展~~，之前偶尔挂一些小工具，现在用得也少了
+- ~~**[Manico](https://manico.im/)**，快捷键设置应用启动，听说了好多年最近才真正用上~~，用 Raycast 内置的快捷键配置功能实现了
+- ~~**[RunCat](https://kyome.io/runcat/index.html?lang=en)**，一个在菜单栏跑动的小猫，显示系统运行状态的，挺有意思的一个小组件~~，后面也是因为刘海空间不够就不用了
+- ~~**[TinderTool](https://www.bresink.com/osx/TinkerTool.html)**，一个免费的系统设置拓展工具，提供了很多实用的额外配置，我主要用来去除截图阴影~~，现在好像也没什么额外用途
 - ~~**CheatSheet**，长按 Command 键就可以显示所有的快捷键，也可以直接点击调用~~，现在基本上不用了
-~~- **Syntax Highlight**，一个开源的预览拓展，通过空格能够对一些编程语言进行语法高亮，简单预览可以不用打开编辑器了~~，感觉不如 VS Code 或者 Cursor 直接打开
-- ~~**Command X**，一个为 macos 提供文件剪切功能的拓展~~，被同作者的 SuperCharge 集成了
+~~- **[Syntax Highlight](https://highlight.hohli.com/)**，一个开源的预览拓展，通过空格能够对一些编程语言进行语法高亮，简单预览可以不用打开编辑器了~~，感觉不如 VS Code 或者 Cursor 直接打开
+- ~~**[Command X](https://sindresorhus.com/command-x)**，一个为 macos 提供文件剪切功能的拓展~~，被同作者的 SuperCharge 集成了
 
 ### 📁 文件管理
 
-- **OneDrive**，5TB 空间，存储大部分个人数据，通过客户端挂载本地目录来同步，速度不错，但是现在基本上还是 NAS 里，用作分享比较多
-- **iCloud**，冲了土耳其区的 2T 空间，主要用于照片备份与软件数据同步，也备份了很多视频
-- **openmediavault**，NAS，8T RAID5，存储了我大部分重要数据，
-- **懒猫微服**，8T RAID0，用作跑一些自用服务和文件备份
-- **阿里云盘**，主要用来保存一些影视、剧集资源，但是好像限速了
-- ~~**Dropbox**，2GB 空间，主要配合 Cryptomator 对敏感数据加密备份~~，使用 NAS 后也很少用了
-- ~~**IPFS Desktop**，去中心化存储，主要还是连接本地文件下载~~，目前还没有持续运行
-- ~~**坚果云**，用来同步简悦配置和文档~~，放弃简悦了）
-- ~~**Google Drive**，1TB 空间~~，因学校从 Google 服务转向 Microsoft 服务，已弃用
-- ~~**百度网盘**，存储影音及备份工具~~，以前存储大量视频剪辑文件用，已弃用
+- **[OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/free-online-cloud-storage)**，5TB 空间，存储大部分个人数据，通过客户端挂载本地目录来同步，速度不错，但是现在基本上还是 NAS 里，用作分享比较多
+- **[iCloud](https://www.icloud.com/)**，冲了土耳其区的 2T 空间，主要用于照片备份与软件数据同步，也备份了很多视频
+- **Google Drive**，2TB 空间，Google One 包含的空间，存储一些不重要的内容
+- **[夸克云盘](https://pan.quark.cn)**，淘宝 88vip 送的，保存一些资源还不错
+- ~~**[阿里云盘](https://www.alipan.com)**，主要用来保存一些影视、剧集资源~~，好像限速了，弃用
+- ~~**[Dropbox](https://www.dropbox.com/)**，2GB 空间，主要配合 Cryptomator 对敏感数据加密备份~~，使用 NAS 后也很少用了
+- ~~**[IPFS Desktop](https://docs.ipfs.tech/install/ipfs-desktop/)**，去中心化存储，主要还是连接本地文件下载~~，目前还没有持续运行
+- ~~**[坚果云](https://www.jianguoyun.com/)**，用来同步简悦配置和文档~~，放弃简悦了）
+- ~~**[百度网盘](https://pan.baidu.com)**，存储影音及备份工具~~，以前存储大量视频剪辑文件用，已弃用
 
 ### 🔐 安全工具
 
-- **1Password**，土耳其区的年付，多端使用都很舒服，后悔没早点迁移过来了
-- **GPG Keychain**，macOS GPG 加密工具客户端，主要用来为 Git 提交进行签名
-- ~~**ElPass**，密码管理工具，界面很喜欢，OTP 以及 Server 管理功能很惊艳，现在所有帐号、密码、证件和银行卡都在这里管理了，用 iCloud 和 Dropbox 进行同步和备份~~，经历了痛苦的迁移过程改到 1Password 了
-- ~~**Cryptomator**，文件目录加密工具，用于加密备份证件等隐私数据，配合网盘使用~~，改用 1Password 后不怎么用了
-- ~~**DAMA**，图片隐私打码工具，通过 TestFlight 尝鲜了测试版~~，后面好像不更新了
+- **[1Password](https://1password.com/)**，土耳其区的年付，多端使用都很舒服，后悔没早点迁移过来了
+- **[GPG Keychain](https://gpgtools.org/)**，macOS GPG 加密工具客户端，主要用来为 Git 提交进行签名
+- ~~**[ElPass](https://elpass.app/)**，密码管理工具，界面很喜欢，OTP 以及 Server 管理功能很惊艳，现在所有帐号、密码、证件和银行卡都在这里管理了，用 iCloud 和 Dropbox 进行同步和备份~~，经历了痛苦的迁移过程改到 1Password 了
+- ~~**[Cryptomator](https://cryptomator.org/)**，文件目录加密工具，用于加密备份证件等隐私数据，配合网盘使用~~，改用 1Password 后不怎么用了
+- ~~**[DAMA](https://apps.apple.com/us/app/dama-auto-redact-privacy/id1534690075)**，图片隐私打码工具，通过 TestFlight 尝鲜了测试版~~，后面好像不更新了
 
 ### 🌏 网络工具
 
-- **Surge**，网络代理、调试工具，家里的 Mac Studio 通过 Surge 来作为家里 Wifi 的 DHCP 服务器，接管家里的网络实现全网代理，主要给 iPad 访问外网以及 Switch 下载游戏加速用
-- **Tailscale**，用来组网，把家里的 NAS、笔记本和 vps 组成了大内网，用于穿透回家
-- **AdGuard**，通过网络流量过滤与 DNS 实现去广告，很强大
-- **Safari**，重新改回了主力浏览器，通过 iCloud 多设备同步，减少依赖
-  - **AdGuard Assistant**，去广告插件
-  - **1Password**，插件
-  - **Immersive Translate**，双语翻译工具
-  - **Obsidian Web Clipper**，截取网页保存至 Obsidian
-  - **RSSHub Radar**，查找网页 RSS 地址或 RSSHub 路由
-  - **SocialFocus**，自定义/去除 Twitter 等平台的组件
-  - **UnTrap for YouTube**，自定义 YouTube 页面
-  - **Downie**，下载插件，一键识别媒体并下载
-  - **Kagi**，把所有 google 搜索重定向到 Kagi
-  - ~~**Elpass**，自动填充密码~~，改用 1Password 了
-  - ~~**NetNewsWire**，自动抓取网站订阅链接~~
-  - ~~**Vinegar+Baking Soda**，把 YouTube 以及其他一些视频网站的视频播放器转回 HTML5 播放器，简约，体验感很不错~~，后面也不太用得上了
-  - ~~**uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』~~
-  - ~~**Instapaper Save**，稍后读应用，保存一些比较精品的文章~~
-  - ~~**LanguageTool**，语法检查插件~~
-- **Chrome**，偶尔作为调试使用
-  - **AdGuard**，去广告插件
-  - **MetaMask**，钱包插件
-  - **Elpass**，自动填充密码
-  - ~~**简悦 + 同步助手**，通过插件记录稍后读和批注，并且增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中~~，弃用了，全面拥抱 Readwise
-  - **豆伴**，备份和查看豆瓣数据
-  - **YouTube Dual Subtitles**，支持多语言字幕
-  - **YouTubeEnhancer**，增强 YouTube 播放器功能
-  - **React Developer Tool**，在浏览器中使用 React 开发工具
-  - **Quick source viewer**，便捷格式化查看源码插件
-  - **IPFS Companion**，去中心化存储，主要用来查看 IPFS 网页
-  - **uBlacklist**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
-  - **Instapaper**，稍后读应用，保存一些比较精品的文章
-  - **LanguageTool**，语法检查插件
-  - **ClearURLs**，去掉链接里的各种应用跟踪参数的
-  - **Immersive Translate**，双语对照的英文翻译插件，owen 做的，作为早期支持者送了一年的会员，更多还是用 DeepL，偶尔用 ChatGPT 翻译
-  - **MetaDock**，增加区块链浏览器信息的插件
-  - **Minimal Theme for Twitter / X**，精简 Twitter 界面
-  - **Not yet, AV1**，去掉 AV1 播放格式，忘记为什么装了，用起来比较无感
-  - **Notepal**，同步微信读书的笔记到 Readwise，Randy 做的，很依赖这个来管理我的读书信息
-  - **Pinboard Tools**，添加书签到 pinboard 平台的，换了 Arc 后发现还是插件版本好用一点，直接直接用菜单栏 js 的
-  - **Readwise Highlighter**，用来给文章添加收藏和加批注的
-  - **Refgen**，复制的时候去掉后面的链接并且转换为 markdown 格式的小工具，reorx 做的
-  - **RSSHub Radar**，检测当前页面 RSSHub 链接
-  - **Time Tower**，记录在各个网页上花的时间，类似于 Wakatime/RescueTime，但是完全本地化
-- ~~**Brave**，主要用来调试合约使用~~
-- ~~**Arc**，最近刚更换为 Arc，使用体验很好，Chrome 迁移没什么成本~~，不维护后回归 Safari 了
-- ~~**ClashX**，网络代理工具，买 Surge 前主力用的~~
-- ~~**Tunnelblick**，openvpn 客户端，连接公司内网服务器使用~~，换工作后不用了
-- ~~**OpenVPN Connect**，openvpn 客户端，不过经常会让我电脑断网~~，还是换成 Tunnelblick 了
-- ~~**VNC Viewer**，远程桌面工具，用来连接树莓派显示桌面~~，没什么远程连接需求了
+- **[Surge](https://nssurge.com/)**，网络代理、调试工具，家里的 Mac Studio 通过 Surge 来作为家里 Wifi 的 DHCP 服务器，接管家里的网络实现全网代理，主要给 iPad 访问外网以及 Switch 下载游戏加速用
+- **[Tailscale](https://tailscale.com)**，用来组网，把家里的 NAS、笔记本和 vps 组成了大内网，用于穿透回家
+- **[AdGuard](https://adguard.com)**，通过网络流量过滤与 DNS 实现去广告，很强大
+- **[Arc](https://arc.net/)**，很喜欢侧栏的模式，作为主力浏览器了
+  - **[SumBuddy](https://sumbuddy.app/)**，AI Summary 工具，用来总结和对网页进行提问
+  - **[YouMeMark](https://youmemark.com/)**，保存一些读过的好的文章
+  - **[AdGuard](https://adguard.com)**，去广告插件
+  - **[MetaMask](https://metamask.io/en-GB)**，钱包插件
+  - **[1Password](https://1password.com/)**，密码管理
+  - **[豆伴](https://chromewebstore.google.com/detail/%E8%B1%86%E4%BC%B4%EF%BC%9A%E8%B1%86%E7%93%A3%E8%B4%A6%E5%8F%B7%E5%A4%87%E4%BB%BD%E5%B7%A5%E5%85%B7/ghppfgfeoafdcaebjoglabppkfmbcjdd)**，备份和查看豆瓣数据
+  - **[Douban Book+](https://doubanbook.plus/)**，豆瓣图书下载拓展
+  - **[Better History](https://betterhistory.io/)**，历史记录管理
+  - **[BewlyBewly](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp?hl=en-US)**，优化 B 站显示
+  - **[Eagle for Chrome](https://en.eagle.cool/extensions)**，素材管理
+  - **[React Developer Tool](https://react.dev/learn/react-developer-tools)**，在浏览器中使用 React 开发工具
+  - **[Quick source viewer](https://chromewebstore.google.com/detail/quick-source-viewer/cfmcghennfbpmhemnnfjhkdmnbidpanb?hl=en-US)**，便捷格式化查看源码插件
+  - **[uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=en)**，屏蔽一些推广营销的搜索结果，规则用的是『[GitHub - cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)』
+  - **[ClearURLs](https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk?hl=en)**，去掉链接里的各种应用跟踪参数的
+  - **[Immersive Translate](https://immersivetranslate.com/)**，双语对照的英文翻译插件，owen 做的，作为早期支持者送了一年的会员，更多还是用 DeepL，偶尔用 ChatGPT 翻译
+  - **[Not yet, AV1](https://chromewebstore.google.com/detail/not-yet-av1/dcmllfkiihingappljlkffafnlhdpbai?hl=en)**，去掉 AV1 播放格式，忘记为什么装了，用起来比较无感
+  - **[Pinboard Tools](https://chromewebstore.google.com/detail/pinboard-tools/dpaohcncbmkojcpcjaojcehdlnjfbjkl?hl=en)**，添加书签到 pinboard 平台的，换了 Arc 后发现还是插件版本好用一点，直接直接用菜单栏 js 的
+  - **[Refgen](https://chromewebstore.google.com/detail/refgen/ceknnceiglebkdhimphmkbgjbbcnhiib)**，复制的时候去掉后面的链接并且转换为 markdown 格式的小工具，reorx 做的
+  - **[RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)**，检测当前页面 RSSHub 链接
+  - **[SocialFocus](https://socialfocus.app/)**，自定义/去除 Twitter 等平台的组件
+  - **[UnTrap for YouTube](https://untrap.app/)**，自定义 YouTube 页面
+  - ~~**[MetaDock](https://www.metadock.net/)**，增加区块链浏览器信息的插件~~，基本上也不用了
+  - ~~**[Minimal Theme for Twitter / X](https://chromewebstore.google.com/detail/minimal-theme-for-twitter/pobhoodpcipjmedfenaigbeloiidbflp?hl=en)**，精简 Twitter 界面~~，都在 SocialFocus 里配置了
+  - ~~**[LanguageTool](https://languagetool.org/)**，语法检查插件~~，基本上都用 AI 来做了
+  - ~~**[Instapaper](https://www.instapaper.com/)**，稍后读应用，保存一些比较精品的文章~~，弃用了 Instapaper 了
+  - ~~**[YouTube Dual Subtitles](https://www.dual-subtitles.com/)**，支持多语言字幕~~，沉浸式翻译带了这个功能了
+  - ~~**[IPFS Companion](https://docs.ipfs.tech/install/ipfs-companion/#prerequisites)**，去中心化存储，主要用来查看 IPFS 网页~~，没什么用途
+  - ~~**[Notepal](https://notepal.randynamic.org/)**，同步微信读书的笔记到 Readwise，Randy 做的，很依赖这个来管理我的读书信息~~，插件不怎么用了，不过现在出了 App 版本
+  - ~~**[Readwise Highlighter](https://chromewebstore.google.com/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi?hl=en)**，用来给文章添加收藏和加批注的~~，停止订阅 Readwise Reader 了
+  - ~~**Time Tower**，记录在各个网页上花的时间，类似于 Wakatime/RescueTime，但是完全本地化~~，不更新了
+  - ~~**[Elpass](https://elpass.app/)**，自动填充密码~~，换到 1Password 后弃用了
+  - ~~**[简悦 + 同步助手](https://simpread.pro/)**，通过插件记录稍后读和批注，并且增加了简悦自动同步的工作流，摘录的语句会自动同步到 Logseq 中~~，弃用了，全面拥抱 Readwise
+- ~~**[Safari](https://www.apple.com/safari/)**，重新改回了主力浏览器，通过 iCloud 多设备同步，减少依赖~~，All in Arc 后弃用了，还是插件生态不太好
+- ~~**[Chrome](https://www.google.com/chrome/)**~~，All in Arc 后也弃用了
+- ~~**[Brave](https://brave.com/)**，主要用来调试合约使用~~
+- ~~**ClashX**，网络代理工具，买 Surge 前主力用的~~，项目已经下线了
+- ~~**[Tunnelblick](https://tunnelblick.net/)**，openvpn 客户端，连接公司内网服务器使用~~，换工作后不用了
+- ~~**[OpenVPN Connect](https://openvpn.net/client/)**，openvpn 客户端，不过经常会让我电脑断网~~，还是换成 Tunnelblick 了
 
 ### 🧰 实用工具
 
@@ -221,7 +218,7 @@
 - **Clicknow**，绑定了快捷键快速翻译和检索 Perplexity 的功能
 - **PopClip**，拓展更多划词功能
 - **EpubKit**，把网页处理成 ePub 格式电子书的工具
-- **FlowDown**，一个 macOS 原生的 AI 客户端，很早期，在期待后续更新
+- **FlowDown**，一个 macOS/iOS 原生的 AI 客户端，用起来很舒服，尤其是联网搜索部分
 - **Bridge**，记录不同地域时间和天气的菜单栏插件
 - **ProTypist**，练习打字键位的工具
 - ~~**Rewind**，一个记录和检索电脑行为的 AI 应用，感觉兼具了检索和 Time Machine 这样的文件备份功能，还有会议自动总结，每日行为这样的功能，体验了一阵子很有意思~~，不过其实还没有过多真正有生产力的用途，更多是尝鲜，送的一年订阅到期后不用了
@@ -283,6 +280,8 @@
     - **ES7+ React/Redux/React-Native snippets**，React 代码快捷提示插件
     - **PostCSS Language Support**，CSS 调整的语言支持
     - **Tailwind CSS IntelliSense**，Tailwind CSS 的代码提示
+  - **Windsurf**，算是 Cursor 的备用，只用 Claude 3.7 Sonnet Thinking 模型
+  - **Roo Code 插件**，配合着「[roocode-workspace](https://github.com/enescingoz/roocode-workspace)」和 Gemini 2.5 Pro 模型
   - **Xcode**，macOS 及 iOS 开发 IDE
     - **GitHub Copilot for Xcode**，GitHub Copilot 的 Xcode 插件，官方集成了
   - **JetBrains GoLand**，主力工作 Go 开发 IDE，很强大，目前用 Edu 身份订阅着全家桶，希望后面能通过开源项目续着
@@ -370,7 +369,7 @@
 - **Things**，所有的日程 TODO 管理
 - **Dola AI**，Telegram App，可以用自然语言新增日程和提醒
 - **Notion Calendar/Cron**，主要用来管理自己 Google Calendar 上的日程
-- **Follow**，目前唯一在用的 RSS 阅读器
+- **Folo**，目前唯一在用的 RSS 阅读器
 - **Anki**，记录一些语言学习等
 - **Books**，Apple 自带图书应用，可导入 epub 或 pdf 文件阅读
 - **Telegram + n8n**，个人信息流聚合系统，把自己的 Twitter、YouTube、GitHub、豆瓣、Spotify 资讯聚合到个人群组里，方便梳理和记录
